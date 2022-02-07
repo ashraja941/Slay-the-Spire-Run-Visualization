@@ -1,0 +1,7484 @@
+Source,Target,Weight
+
+Strike_G,Defend_G,35
+
+Strike_G,Survivor,35
+
+Strike_G,Neutralize,35
+
+Strike_G,Underhanded Strike,11
+
+Strike_G,Backflip,18
+
+Strike_G,Doppelganger,2
+
+Strike_G,Blur,7
+
+Strike_G,Terror,7
+
+Strike_G,Dodge and Roll,8
+
+Strike_G,Dagger Throw,11
+
+Strike_G,Flying Knee,6
+
+Strike_G,PiercingWail,19
+
+Strike_G,Quick Slash,9
+
+Strike_G,Crippling Poison,5
+
+Strike_G,Dagger Spray,14
+
+Strike_G,Accuracy,1
+
+Strike_G,Catalyst,8
+
+Strike_G,Bane,9
+
+Strike_G,Blade Dance,14
+
+Strike_G,Infinite Blades,5
+
+Strike_G,Phantasmal Killer,5
+
+Strike_G,Corpse Explosion,4
+
+Strike_G,CurseOfTheBell,4
+
+Strike_G,Riddle With Holes,1
+
+Strike_G,Slice,6
+
+Strike_G,Deadly Poison,17
+
+Strike_G,Noxious Fumes,10
+
+Strike_G,Bite,0
+
+Strike_G,Cloak And Dagger,6
+
+Strike_G,Bouncing Flask,8
+
+Strike_G,Bullet Time,3
+
+Strike_G,Deflect,8
+
+Strike_G,Madness,0
+
+Strike_G,Acrobatics,15
+
+Strike_G,Storm of Steel,2
+
+Strike_G,After Image,3
+
+Strike_G,Leg Sweep,8
+
+Strike_G,RitualDagger,2
+
+Strike_G,Wraith Form v2,2
+
+Strike_G,Flechettes,1
+
+Strike_G,Venomology,1
+
+Strike_G,All Out Attack,2
+
+Strike_G,Writhe,2
+
+Strike_G,Prepared,15
+
+Strike_G,Masterful Stab,5
+
+Strike_G,Outmaneuver,7
+
+Strike_G,Adrenaline,3
+
+Strike_G,Night Terror,2
+
+Strike_G,Eviscerate,3
+
+Strike_G,Reflex,3
+
+Strike_G,Finisher,3
+
+Strike_G,Well Laid Plans,1
+
+Strike_G,Sucker Punch,9
+
+Strike_G,Transmutation,1
+
+Strike_G,Burst,9
+
+Strike_G,Expertise,1
+
+Strike_G,Footwork,5
+
+Strike_G,Parasite,1
+
+Strike_G,Poisoned Stab,13
+
+Strike_G,Die Die Die,2
+
+Strike_G,Bandage Up,1
+
+Strike_G,Caltrops,2
+
+Strike_G,Predator,2
+
+Strike_G,Escape Plan,1
+
+Strike_G,Dramatic Entrance,2
+
+Strike_G,Heel Hook,1
+
+Strike_G,Decay,1
+
+Strike_G,Choke,1
+
+Strike_G,Concentrate,1
+
+Strike_G,Calculated Gamble,5
+
+Strike_G,Endless Agony,5
+
+Strike_G,Tactician,1
+
+Strike_G,Tools of the Trade,1
+
+Strike_G,Distraction,1
+
+Strike_G,Backstab,3
+
+Strike_G,Skewer,2
+
+Strike_G,Regret,1
+
+Strike_G,Setup,2
+
+Strike_G,A Thousand Cuts,0
+
+Strike_G,Envenom,2
+
+Strike_G,Glass Knife,1
+
+Strike_G,Malaise,2
+
+Strike_G,Necronomicurse,1
+
+Strike_G,Discovery,1
+
+Strike_G,Flash of Steel,1
+
+Strike_G,Deep Breath,1
+
+Defend_G,Survivor,40
+
+Defend_G,Neutralize,40
+
+Defend_G,Underhanded Strike,12
+
+Defend_G,Backflip,21
+
+Defend_G,Doppelganger,2
+
+Defend_G,Blur,8
+
+Defend_G,Terror,9
+
+Defend_G,Dodge and Roll,10
+
+Defend_G,Dagger Throw,13
+
+Defend_G,Flying Knee,6
+
+Defend_G,PiercingWail,21
+
+Defend_G,Quick Slash,11
+
+Defend_G,Crippling Poison,8
+
+Defend_G,Dagger Spray,17
+
+Defend_G,Accuracy,3
+
+Defend_G,Catalyst,12
+
+Defend_G,Bane,12
+
+Defend_G,Blade Dance,17
+
+Defend_G,Infinite Blades,6
+
+Defend_G,Phantasmal Killer,6
+
+Defend_G,Corpse Explosion,5
+
+Defend_G,CurseOfTheBell,5
+
+Defend_G,Riddle With Holes,2
+
+Defend_G,Slice,7
+
+Defend_G,Deadly Poison,20
+
+Defend_G,Noxious Fumes,12
+
+Defend_G,Bite,3
+
+Defend_G,Cloak And Dagger,8
+
+Defend_G,Bouncing Flask,11
+
+Defend_G,Bullet Time,5
+
+Defend_G,Deflect,11
+
+Defend_G,Madness,1
+
+Defend_G,Acrobatics,17
+
+Defend_G,Storm of Steel,3
+
+Defend_G,After Image,5
+
+Defend_G,Leg Sweep,10
+
+Defend_G,RitualDagger,2
+
+Defend_G,Wraith Form v2,2
+
+Defend_G,Flechettes,1
+
+Defend_G,Venomology,2
+
+Defend_G,All Out Attack,2
+
+Defend_G,Writhe,2
+
+Defend_G,Prepared,18
+
+Defend_G,Masterful Stab,5
+
+Defend_G,Outmaneuver,8
+
+Defend_G,Adrenaline,4
+
+Defend_G,Night Terror,2
+
+Defend_G,Eviscerate,3
+
+Defend_G,Reflex,3
+
+Defend_G,Finisher,4
+
+Defend_G,Well Laid Plans,2
+
+Defend_G,Sucker Punch,11
+
+Defend_G,Transmutation,1
+
+Defend_G,Burst,10
+
+Defend_G,Expertise,1
+
+Defend_G,Footwork,8
+
+Defend_G,Parasite,2
+
+Defend_G,Poisoned Stab,17
+
+Defend_G,Die Die Die,2
+
+Defend_G,Bandage Up,1
+
+Defend_G,Caltrops,2
+
+Defend_G,Predator,2
+
+Defend_G,Escape Plan,1
+
+Defend_G,Dramatic Entrance,2
+
+Defend_G,Heel Hook,1
+
+Defend_G,Decay,1
+
+Defend_G,Choke,1
+
+Defend_G,Concentrate,1
+
+Defend_G,Calculated Gamble,5
+
+Defend_G,Endless Agony,5
+
+Defend_G,Tactician,2
+
+Defend_G,Tools of the Trade,1
+
+Defend_G,Distraction,1
+
+Defend_G,Backstab,3
+
+Defend_G,Skewer,2
+
+Defend_G,Regret,1
+
+Defend_G,Setup,2
+
+Defend_G,A Thousand Cuts,1
+
+Defend_G,Envenom,2
+
+Defend_G,Glass Knife,1
+
+Defend_G,Malaise,3
+
+Defend_G,Necronomicurse,1
+
+Defend_G,Discovery,1
+
+Defend_G,Flash of Steel,1
+
+Defend_G,Deep Breath,1
+
+Survivor,Neutralize,43
+
+Survivor,Underhanded Strike,12
+
+Survivor,Backflip,23
+
+Survivor,Doppelganger,2
+
+Survivor,Blur,10
+
+Survivor,Terror,10
+
+Survivor,Dodge and Roll,12
+
+Survivor,Dagger Throw,13
+
+Survivor,Flying Knee,6
+
+Survivor,PiercingWail,23
+
+Survivor,Quick Slash,13
+
+Survivor,Crippling Poison,8
+
+Survivor,Dagger Spray,18
+
+Survivor,Accuracy,6
+
+Survivor,Catalyst,12
+
+Survivor,Bane,12
+
+Survivor,Blade Dance,20
+
+Survivor,Infinite Blades,7
+
+Survivor,Phantasmal Killer,7
+
+Survivor,Corpse Explosion,6
+
+Survivor,CurseOfTheBell,5
+
+Survivor,Riddle With Holes,2
+
+Survivor,Slice,7
+
+Survivor,Deadly Poison,21
+
+Survivor,Noxious Fumes,14
+
+Survivor,Bite,3
+
+Survivor,Cloak And Dagger,9
+
+Survivor,Bouncing Flask,11
+
+Survivor,Bullet Time,5
+
+Survivor,Deflect,14
+
+Survivor,Madness,1
+
+Survivor,Acrobatics,19
+
+Survivor,Storm of Steel,4
+
+Survivor,After Image,5
+
+Survivor,Leg Sweep,12
+
+Survivor,RitualDagger,2
+
+Survivor,Wraith Form v2,2
+
+Survivor,Flechettes,1
+
+Survivor,Venomology,3
+
+Survivor,All Out Attack,2
+
+Survivor,Writhe,2
+
+Survivor,Prepared,19
+
+Survivor,Masterful Stab,7
+
+Survivor,Outmaneuver,10
+
+Survivor,Adrenaline,6
+
+Survivor,Night Terror,2
+
+Survivor,Eviscerate,4
+
+Survivor,Reflex,3
+
+Survivor,Finisher,4
+
+Survivor,Well Laid Plans,2
+
+Survivor,Sucker Punch,11
+
+Survivor,Transmutation,1
+
+Survivor,Burst,11
+
+Survivor,Expertise,1
+
+Survivor,Footwork,8
+
+Survivor,Parasite,2
+
+Survivor,Poisoned Stab,17
+
+Survivor,Die Die Die,2
+
+Survivor,Bandage Up,2
+
+Survivor,Caltrops,3
+
+Survivor,Predator,2
+
+Survivor,Escape Plan,1
+
+Survivor,Dramatic Entrance,2
+
+Survivor,Heel Hook,2
+
+Survivor,Decay,1
+
+Survivor,Choke,2
+
+Survivor,Concentrate,1
+
+Survivor,Calculated Gamble,7
+
+Survivor,Endless Agony,5
+
+Survivor,Tactician,2
+
+Survivor,Tools of the Trade,1
+
+Survivor,Distraction,1
+
+Survivor,Backstab,3
+
+Survivor,Skewer,2
+
+Survivor,Regret,1
+
+Survivor,Setup,2
+
+Survivor,A Thousand Cuts,1
+
+Survivor,Envenom,4
+
+Survivor,Glass Knife,2
+
+Survivor,Malaise,5
+
+Survivor,Necronomicurse,1
+
+Survivor,Discovery,1
+
+Survivor,Flash of Steel,1
+
+Survivor,Deep Breath,1
+
+Neutralize,Underhanded Strike,12
+
+Neutralize,Backflip,23
+
+Neutralize,Doppelganger,2
+
+Neutralize,Blur,10
+
+Neutralize,Terror,10
+
+Neutralize,Dodge and Roll,12
+
+Neutralize,Dagger Throw,13
+
+Neutralize,Flying Knee,6
+
+Neutralize,PiercingWail,23
+
+Neutralize,Quick Slash,13
+
+Neutralize,Crippling Poison,8
+
+Neutralize,Dagger Spray,18
+
+Neutralize,Accuracy,6
+
+Neutralize,Catalyst,12
+
+Neutralize,Bane,12
+
+Neutralize,Blade Dance,20
+
+Neutralize,Infinite Blades,7
+
+Neutralize,Phantasmal Killer,7
+
+Neutralize,Corpse Explosion,6
+
+Neutralize,CurseOfTheBell,5
+
+Neutralize,Riddle With Holes,2
+
+Neutralize,Slice,7
+
+Neutralize,Deadly Poison,21
+
+Neutralize,Noxious Fumes,14
+
+Neutralize,Bite,3
+
+Neutralize,Cloak And Dagger,9
+
+Neutralize,Bouncing Flask,11
+
+Neutralize,Bullet Time,5
+
+Neutralize,Deflect,14
+
+Neutralize,Madness,1
+
+Neutralize,Acrobatics,19
+
+Neutralize,Storm of Steel,4
+
+Neutralize,After Image,5
+
+Neutralize,Leg Sweep,12
+
+Neutralize,RitualDagger,2
+
+Neutralize,Wraith Form v2,2
+
+Neutralize,Flechettes,1
+
+Neutralize,Venomology,3
+
+Neutralize,All Out Attack,2
+
+Neutralize,Writhe,2
+
+Neutralize,Prepared,19
+
+Neutralize,Masterful Stab,7
+
+Neutralize,Outmaneuver,10
+
+Neutralize,Adrenaline,6
+
+Neutralize,Night Terror,2
+
+Neutralize,Eviscerate,4
+
+Neutralize,Reflex,3
+
+Neutralize,Finisher,4
+
+Neutralize,Well Laid Plans,2
+
+Neutralize,Sucker Punch,11
+
+Neutralize,Transmutation,1
+
+Neutralize,Burst,11
+
+Neutralize,Expertise,1
+
+Neutralize,Footwork,8
+
+Neutralize,Parasite,2
+
+Neutralize,Poisoned Stab,17
+
+Neutralize,Die Die Die,2
+
+Neutralize,Bandage Up,2
+
+Neutralize,Caltrops,3
+
+Neutralize,Predator,2
+
+Neutralize,Escape Plan,1
+
+Neutralize,Dramatic Entrance,2
+
+Neutralize,Heel Hook,2
+
+Neutralize,Decay,1
+
+Neutralize,Choke,2
+
+Neutralize,Concentrate,1
+
+Neutralize,Calculated Gamble,7
+
+Neutralize,Endless Agony,5
+
+Neutralize,Tactician,2
+
+Neutralize,Tools of the Trade,1
+
+Neutralize,Distraction,1
+
+Neutralize,Backstab,3
+
+Neutralize,Skewer,2
+
+Neutralize,Regret,1
+
+Neutralize,Setup,2
+
+Neutralize,A Thousand Cuts,1
+
+Neutralize,Envenom,4
+
+Neutralize,Glass Knife,2
+
+Neutralize,Malaise,5
+
+Neutralize,Necronomicurse,1
+
+Neutralize,Discovery,1
+
+Neutralize,Flash of Steel,1
+
+Neutralize,Deep Breath,1
+
+Underhanded Strike,Backflip,9
+
+Underhanded Strike,Doppelganger,1
+
+Underhanded Strike,Blur,2
+
+Underhanded Strike,Terror,3
+
+Underhanded Strike,Dodge and Roll,2
+
+Underhanded Strike,Dagger Throw,5
+
+Underhanded Strike,Flying Knee,3
+
+Underhanded Strike,PiercingWail,6
+
+Underhanded Strike,Quick Slash,4
+
+Underhanded Strike,Crippling Poison,2
+
+Underhanded Strike,Dagger Spray,6
+
+Underhanded Strike,Accuracy,2
+
+Underhanded Strike,Catalyst,2
+
+Underhanded Strike,Bane,3
+
+Underhanded Strike,Blade Dance,4
+
+Underhanded Strike,Infinite Blades,3
+
+Underhanded Strike,Phantasmal Killer,2
+
+Underhanded Strike,Corpse Explosion,3
+
+Underhanded Strike,CurseOfTheBell,2
+
+Underhanded Strike,Riddle With Holes,1
+
+Underhanded Strike,Slice,4
+
+Underhanded Strike,Deadly Poison,7
+
+Underhanded Strike,Noxious Fumes,4
+
+Underhanded Strike,Bite,1
+
+Underhanded Strike,Cloak And Dagger,4
+
+Underhanded Strike,Bouncing Flask,1
+
+Underhanded Strike,Bullet Time,2
+
+Underhanded Strike,Deflect,4
+
+Underhanded Strike,Madness,1
+
+Underhanded Strike,Acrobatics,7
+
+Underhanded Strike,Storm of Steel,1
+
+Underhanded Strike,After Image,3
+
+Underhanded Strike,Leg Sweep,1
+
+Underhanded Strike,RitualDagger,1
+
+Underhanded Strike,Wraith Form v2,0
+
+Underhanded Strike,Flechettes,1
+
+Underhanded Strike,Venomology,1
+
+Underhanded Strike,All Out Attack,2
+
+Underhanded Strike,Writhe,1
+
+Underhanded Strike,Prepared,7
+
+Underhanded Strike,Masterful Stab,2
+
+Underhanded Strike,Outmaneuver,2
+
+Underhanded Strike,Adrenaline,0
+
+Underhanded Strike,Night Terror,0
+
+Underhanded Strike,Eviscerate,1
+
+Underhanded Strike,Reflex,1
+
+Underhanded Strike,Finisher,1
+
+Underhanded Strike,Well Laid Plans,0
+
+Underhanded Strike,Sucker Punch,2
+
+Underhanded Strike,Transmutation,0
+
+Underhanded Strike,Burst,3
+
+Underhanded Strike,Expertise,0
+
+Underhanded Strike,Footwork,3
+
+Underhanded Strike,Parasite,0
+
+Underhanded Strike,Poisoned Stab,4
+
+Underhanded Strike,Die Die Die,1
+
+Underhanded Strike,Bandage Up,1
+
+Underhanded Strike,Caltrops,2
+
+Underhanded Strike,Predator,0
+
+Underhanded Strike,Escape Plan,0
+
+Underhanded Strike,Dramatic Entrance,0
+
+Underhanded Strike,Heel Hook,0
+
+Underhanded Strike,Decay,0
+
+Underhanded Strike,Choke,1
+
+Underhanded Strike,Concentrate,1
+
+Underhanded Strike,Calculated Gamble,1
+
+Underhanded Strike,Endless Agony,2
+
+Underhanded Strike,Tactician,1
+
+Underhanded Strike,Tools of the Trade,1
+
+Underhanded Strike,Distraction,1
+
+Underhanded Strike,Backstab,1
+
+Underhanded Strike,Skewer,0
+
+Underhanded Strike,Regret,0
+
+Underhanded Strike,Setup,0
+
+Underhanded Strike,A Thousand Cuts,0
+
+Underhanded Strike,Envenom,1
+
+Underhanded Strike,Glass Knife,0
+
+Underhanded Strike,Malaise,0
+
+Underhanded Strike,Necronomicurse,0
+
+Underhanded Strike,Discovery,0
+
+Underhanded Strike,Flash of Steel,0
+
+Underhanded Strike,Deep Breath,1
+
+Backflip,Doppelganger,2
+
+Backflip,Blur,6
+
+Backflip,Terror,7
+
+Backflip,Dodge and Roll,8
+
+Backflip,Dagger Throw,7
+
+Backflip,Flying Knee,6
+
+Backflip,PiercingWail,13
+
+Backflip,Quick Slash,9
+
+Backflip,Crippling Poison,5
+
+Backflip,Dagger Spray,8
+
+Backflip,Accuracy,5
+
+Backflip,Catalyst,8
+
+Backflip,Bane,9
+
+Backflip,Blade Dance,11
+
+Backflip,Infinite Blades,4
+
+Backflip,Phantasmal Killer,3
+
+Backflip,Corpse Explosion,4
+
+Backflip,CurseOfTheBell,2
+
+Backflip,Riddle With Holes,2
+
+Backflip,Slice,5
+
+Backflip,Deadly Poison,15
+
+Backflip,Noxious Fumes,7
+
+Backflip,Bite,2
+
+Backflip,Cloak And Dagger,7
+
+Backflip,Bouncing Flask,6
+
+Backflip,Bullet Time,3
+
+Backflip,Deflect,8
+
+Backflip,Madness,1
+
+Backflip,Acrobatics,13
+
+Backflip,Storm of Steel,3
+
+Backflip,After Image,3
+
+Backflip,Leg Sweep,6
+
+Backflip,RitualDagger,2
+
+Backflip,Wraith Form v2,1
+
+Backflip,Flechettes,1
+
+Backflip,Venomology,3
+
+Backflip,All Out Attack,1
+
+Backflip,Writhe,2
+
+Backflip,Prepared,11
+
+Backflip,Masterful Stab,3
+
+Backflip,Outmaneuver,8
+
+Backflip,Adrenaline,5
+
+Backflip,Night Terror,1
+
+Backflip,Eviscerate,3
+
+Backflip,Reflex,2
+
+Backflip,Finisher,3
+
+Backflip,Well Laid Plans,1
+
+Backflip,Sucker Punch,6
+
+Backflip,Transmutation,1
+
+Backflip,Burst,9
+
+Backflip,Expertise,1
+
+Backflip,Footwork,6
+
+Backflip,Parasite,2
+
+Backflip,Poisoned Stab,9
+
+Backflip,Die Die Die,2
+
+Backflip,Bandage Up,2
+
+Backflip,Caltrops,3
+
+Backflip,Predator,2
+
+Backflip,Escape Plan,1
+
+Backflip,Dramatic Entrance,1
+
+Backflip,Heel Hook,2
+
+Backflip,Decay,1
+
+Backflip,Choke,2
+
+Backflip,Concentrate,1
+
+Backflip,Calculated Gamble,4
+
+Backflip,Endless Agony,3
+
+Backflip,Tactician,0
+
+Backflip,Tools of the Trade,0
+
+Backflip,Distraction,0
+
+Backflip,Backstab,0
+
+Backflip,Skewer,0
+
+Backflip,Regret,0
+
+Backflip,Setup,1
+
+Backflip,A Thousand Cuts,1
+
+Backflip,Envenom,1
+
+Backflip,Glass Knife,0
+
+Backflip,Malaise,2
+
+Backflip,Necronomicurse,1
+
+Backflip,Discovery,1
+
+Backflip,Flash of Steel,1
+
+Backflip,Deep Breath,0
+
+Doppelganger,Blur,2
+
+Doppelganger,Terror,1
+
+Doppelganger,Dodge and Roll,1
+
+Doppelganger,Dagger Throw,2
+
+Doppelganger,Flying Knee,1
+
+Doppelganger,PiercingWail,2
+
+Doppelganger,Quick Slash,0
+
+Doppelganger,Crippling Poison,0
+
+Doppelganger,Dagger Spray,0
+
+Doppelganger,Accuracy,0
+
+Doppelganger,Catalyst,0
+
+Doppelganger,Bane,0
+
+Doppelganger,Blade Dance,0
+
+Doppelganger,Infinite Blades,0
+
+Doppelganger,Phantasmal Killer,0
+
+Doppelganger,Corpse Explosion,0
+
+Doppelganger,CurseOfTheBell,0
+
+Doppelganger,Riddle With Holes,0
+
+Doppelganger,Slice,0
+
+Doppelganger,Deadly Poison,1
+
+Doppelganger,Noxious Fumes,0
+
+Doppelganger,Bite,0
+
+Doppelganger,Cloak And Dagger,0
+
+Doppelganger,Bouncing Flask,0
+
+Doppelganger,Bullet Time,0
+
+Doppelganger,Deflect,0
+
+Doppelganger,Madness,0
+
+Doppelganger,Acrobatics,1
+
+Doppelganger,Storm of Steel,0
+
+Doppelganger,After Image,0
+
+Doppelganger,Leg Sweep,1
+
+Doppelganger,RitualDagger,0
+
+Doppelganger,Wraith Form v2,0
+
+Doppelganger,Flechettes,0
+
+Doppelganger,Venomology,0
+
+Doppelganger,All Out Attack,0
+
+Doppelganger,Writhe,0
+
+Doppelganger,Prepared,1
+
+Doppelganger,Masterful Stab,0
+
+Doppelganger,Outmaneuver,1
+
+Doppelganger,Adrenaline,0
+
+Doppelganger,Night Terror,0
+
+Doppelganger,Eviscerate,0
+
+Doppelganger,Reflex,0
+
+Doppelganger,Finisher,0
+
+Doppelganger,Well Laid Plans,0
+
+Doppelganger,Sucker Punch,0
+
+Doppelganger,Transmutation,0
+
+Doppelganger,Burst,0
+
+Doppelganger,Expertise,0
+
+Doppelganger,Footwork,0
+
+Doppelganger,Parasite,0
+
+Doppelganger,Poisoned Stab,0
+
+Doppelganger,Die Die Die,0
+
+Doppelganger,Bandage Up,0
+
+Doppelganger,Caltrops,0
+
+Doppelganger,Predator,1
+
+Doppelganger,Escape Plan,1
+
+Doppelganger,Dramatic Entrance,1
+
+Doppelganger,Heel Hook,1
+
+Doppelganger,Decay,1
+
+Doppelganger,Choke,0
+
+Doppelganger,Concentrate,0
+
+Doppelganger,Calculated Gamble,0
+
+Doppelganger,Endless Agony,0
+
+Doppelganger,Tactician,0
+
+Doppelganger,Tools of the Trade,0
+
+Doppelganger,Distraction,0
+
+Doppelganger,Backstab,0
+
+Doppelganger,Skewer,0
+
+Doppelganger,Regret,0
+
+Doppelganger,Setup,0
+
+Doppelganger,A Thousand Cuts,0
+
+Doppelganger,Envenom,0
+
+Doppelganger,Glass Knife,0
+
+Doppelganger,Malaise,0
+
+Doppelganger,Necronomicurse,0
+
+Doppelganger,Discovery,0
+
+Doppelganger,Flash of Steel,0
+
+Doppelganger,Deep Breath,0
+
+Blur,Terror,4
+
+Blur,Dodge and Roll,4
+
+Blur,Dagger Throw,3
+
+Blur,Flying Knee,2
+
+Blur,PiercingWail,5
+
+Blur,Quick Slash,4
+
+Blur,Crippling Poison,0
+
+Blur,Dagger Spray,2
+
+Blur,Accuracy,3
+
+Blur,Catalyst,2
+
+Blur,Bane,2
+
+Blur,Blade Dance,5
+
+Blur,Infinite Blades,3
+
+Blur,Phantasmal Killer,2
+
+Blur,Corpse Explosion,1
+
+Blur,CurseOfTheBell,1
+
+Blur,Riddle With Holes,0
+
+Blur,Slice,1
+
+Blur,Deadly Poison,5
+
+Blur,Noxious Fumes,4
+
+Blur,Bite,0
+
+Blur,Cloak And Dagger,1
+
+Blur,Bouncing Flask,2
+
+Blur,Bullet Time,0
+
+Blur,Deflect,3
+
+Blur,Madness,0
+
+Blur,Acrobatics,5
+
+Blur,Storm of Steel,2
+
+Blur,After Image,1
+
+Blur,Leg Sweep,4
+
+Blur,RitualDagger,0
+
+Blur,Wraith Form v2,0
+
+Blur,Flechettes,0
+
+Blur,Venomology,1
+
+Blur,All Out Attack,1
+
+Blur,Writhe,0
+
+Blur,Prepared,3
+
+Blur,Masterful Stab,2
+
+Blur,Outmaneuver,4
+
+Blur,Adrenaline,1
+
+Blur,Night Terror,0
+
+Blur,Eviscerate,0
+
+Blur,Reflex,0
+
+Blur,Finisher,0
+
+Blur,Well Laid Plans,0
+
+Blur,Sucker Punch,2
+
+Blur,Transmutation,0
+
+Blur,Burst,1
+
+Blur,Expertise,0
+
+Blur,Footwork,1
+
+Blur,Parasite,1
+
+Blur,Poisoned Stab,4
+
+Blur,Die Die Die,0
+
+Blur,Bandage Up,1
+
+Blur,Caltrops,0
+
+Blur,Predator,1
+
+Blur,Escape Plan,1
+
+Blur,Dramatic Entrance,1
+
+Blur,Heel Hook,1
+
+Blur,Decay,1
+
+Blur,Choke,1
+
+Blur,Concentrate,0
+
+Blur,Calculated Gamble,2
+
+Blur,Endless Agony,1
+
+Blur,Tactician,0
+
+Blur,Tools of the Trade,0
+
+Blur,Distraction,0
+
+Blur,Backstab,0
+
+Blur,Skewer,0
+
+Blur,Regret,0
+
+Blur,Setup,1
+
+Blur,A Thousand Cuts,1
+
+Blur,Envenom,2
+
+Blur,Glass Knife,1
+
+Blur,Malaise,2
+
+Blur,Necronomicurse,1
+
+Blur,Discovery,0
+
+Blur,Flash of Steel,0
+
+Blur,Deep Breath,1
+
+Terror,Dodge and Roll,3
+
+Terror,Dagger Throw,3
+
+Terror,Flying Knee,1
+
+Terror,PiercingWail,6
+
+Terror,Quick Slash,3
+
+Terror,Crippling Poison,3
+
+Terror,Dagger Spray,3
+
+Terror,Accuracy,1
+
+Terror,Catalyst,5
+
+Terror,Bane,5
+
+Terror,Blade Dance,4
+
+Terror,Infinite Blades,3
+
+Terror,Phantasmal Killer,3
+
+Terror,Corpse Explosion,1
+
+Terror,CurseOfTheBell,0
+
+Terror,Riddle With Holes,0
+
+Terror,Slice,0
+
+Terror,Deadly Poison,5
+
+Terror,Noxious Fumes,5
+
+Terror,Bite,1
+
+Terror,Cloak And Dagger,0
+
+Terror,Bouncing Flask,4
+
+Terror,Bullet Time,2
+
+Terror,Deflect,2
+
+Terror,Madness,0
+
+Terror,Acrobatics,5
+
+Terror,Storm of Steel,0
+
+Terror,After Image,1
+
+Terror,Leg Sweep,3
+
+Terror,RitualDagger,0
+
+Terror,Wraith Form v2,0
+
+Terror,Flechettes,1
+
+Terror,Venomology,1
+
+Terror,All Out Attack,1
+
+Terror,Writhe,1
+
+Terror,Prepared,5
+
+Terror,Masterful Stab,3
+
+Terror,Outmaneuver,2
+
+Terror,Adrenaline,3
+
+Terror,Night Terror,0
+
+Terror,Eviscerate,0
+
+Terror,Reflex,0
+
+Terror,Finisher,1
+
+Terror,Well Laid Plans,0
+
+Terror,Sucker Punch,1
+
+Terror,Transmutation,0
+
+Terror,Burst,3
+
+Terror,Expertise,0
+
+Terror,Footwork,1
+
+Terror,Parasite,0
+
+Terror,Poisoned Stab,5
+
+Terror,Die Die Die,0
+
+Terror,Bandage Up,0
+
+Terror,Caltrops,1
+
+Terror,Predator,1
+
+Terror,Escape Plan,0
+
+Terror,Dramatic Entrance,0
+
+Terror,Heel Hook,0
+
+Terror,Decay,0
+
+Terror,Choke,1
+
+Terror,Concentrate,0
+
+Terror,Calculated Gamble,3
+
+Terror,Endless Agony,0
+
+Terror,Tactician,1
+
+Terror,Tools of the Trade,0
+
+Terror,Distraction,0
+
+Terror,Backstab,0
+
+Terror,Skewer,0
+
+Terror,Regret,0
+
+Terror,Setup,0
+
+Terror,A Thousand Cuts,0
+
+Terror,Envenom,1
+
+Terror,Glass Knife,1
+
+Terror,Malaise,1
+
+Terror,Necronomicurse,0
+
+Terror,Discovery,1
+
+Terror,Flash of Steel,1
+
+Terror,Deep Breath,0
+
+Dodge and Roll,Dagger Throw,5
+
+Dodge and Roll,Flying Knee,2
+
+Dodge and Roll,PiercingWail,6
+
+Dodge and Roll,Quick Slash,3
+
+Dodge and Roll,Crippling Poison,2
+
+Dodge and Roll,Dagger Spray,6
+
+Dodge and Roll,Accuracy,4
+
+Dodge and Roll,Catalyst,3
+
+Dodge and Roll,Bane,4
+
+Dodge and Roll,Blade Dance,9
+
+Dodge and Roll,Infinite Blades,1
+
+Dodge and Roll,Phantasmal Killer,1
+
+Dodge and Roll,Corpse Explosion,3
+
+Dodge and Roll,CurseOfTheBell,1
+
+Dodge and Roll,Riddle With Holes,0
+
+Dodge and Roll,Slice,2
+
+Dodge and Roll,Deadly Poison,6
+
+Dodge and Roll,Noxious Fumes,5
+
+Dodge and Roll,Bite,1
+
+Dodge and Roll,Cloak And Dagger,2
+
+Dodge and Roll,Bouncing Flask,4
+
+Dodge and Roll,Bullet Time,0
+
+Dodge and Roll,Deflect,6
+
+Dodge and Roll,Madness,0
+
+Dodge and Roll,Acrobatics,6
+
+Dodge and Roll,Storm of Steel,2
+
+Dodge and Roll,After Image,2
+
+Dodge and Roll,Leg Sweep,4
+
+Dodge and Roll,RitualDagger,0
+
+Dodge and Roll,Wraith Form v2,1
+
+Dodge and Roll,Flechettes,0
+
+Dodge and Roll,Venomology,2
+
+Dodge and Roll,All Out Attack,0
+
+Dodge and Roll,Writhe,0
+
+Dodge and Roll,Prepared,5
+
+Dodge and Roll,Masterful Stab,3
+
+Dodge and Roll,Outmaneuver,3
+
+Dodge and Roll,Adrenaline,2
+
+Dodge and Roll,Night Terror,1
+
+Dodge and Roll,Eviscerate,2
+
+Dodge and Roll,Reflex,0
+
+Dodge and Roll,Finisher,1
+
+Dodge and Roll,Well Laid Plans,0
+
+Dodge and Roll,Sucker Punch,4
+
+Dodge and Roll,Transmutation,0
+
+Dodge and Roll,Burst,4
+
+Dodge and Roll,Expertise,0
+
+Dodge and Roll,Footwork,3
+
+Dodge and Roll,Parasite,1
+
+Dodge and Roll,Poisoned Stab,6
+
+Dodge and Roll,Die Die Die,0
+
+Dodge and Roll,Bandage Up,1
+
+Dodge and Roll,Caltrops,1
+
+Dodge and Roll,Predator,1
+
+Dodge and Roll,Escape Plan,0
+
+Dodge and Roll,Dramatic Entrance,0
+
+Dodge and Roll,Heel Hook,1
+
+Dodge and Roll,Decay,0
+
+Dodge and Roll,Choke,1
+
+Dodge and Roll,Concentrate,0
+
+Dodge and Roll,Calculated Gamble,4
+
+Dodge and Roll,Endless Agony,2
+
+Dodge and Roll,Tactician,0
+
+Dodge and Roll,Tools of the Trade,0
+
+Dodge and Roll,Distraction,0
+
+Dodge and Roll,Backstab,1
+
+Dodge and Roll,Skewer,2
+
+Dodge and Roll,Regret,0
+
+Dodge and Roll,Setup,1
+
+Dodge and Roll,A Thousand Cuts,1
+
+Dodge and Roll,Envenom,1
+
+Dodge and Roll,Glass Knife,0
+
+Dodge and Roll,Malaise,3
+
+Dodge and Roll,Necronomicurse,1
+
+Dodge and Roll,Discovery,1
+
+Dodge and Roll,Flash of Steel,1
+
+Dodge and Roll,Deep Breath,0
+
+Dagger Throw,Flying Knee,6
+
+Dagger Throw,PiercingWail,9
+
+Dagger Throw,Quick Slash,5
+
+Dagger Throw,Crippling Poison,5
+
+Dagger Throw,Dagger Spray,6
+
+Dagger Throw,Accuracy,0
+
+Dagger Throw,Catalyst,3
+
+Dagger Throw,Bane,2
+
+Dagger Throw,Blade Dance,5
+
+Dagger Throw,Infinite Blades,1
+
+Dagger Throw,Phantasmal Killer,1
+
+Dagger Throw,Corpse Explosion,1
+
+Dagger Throw,CurseOfTheBell,1
+
+Dagger Throw,Riddle With Holes,1
+
+Dagger Throw,Slice,3
+
+Dagger Throw,Deadly Poison,5
+
+Dagger Throw,Noxious Fumes,4
+
+Dagger Throw,Bite,1
+
+Dagger Throw,Cloak And Dagger,2
+
+Dagger Throw,Bouncing Flask,2
+
+Dagger Throw,Bullet Time,1
+
+Dagger Throw,Deflect,4
+
+Dagger Throw,Madness,0
+
+Dagger Throw,Acrobatics,6
+
+Dagger Throw,Storm of Steel,1
+
+Dagger Throw,After Image,1
+
+Dagger Throw,Leg Sweep,4
+
+Dagger Throw,RitualDagger,1
+
+Dagger Throw,Wraith Form v2,1
+
+Dagger Throw,Flechettes,0
+
+Dagger Throw,Venomology,0
+
+Dagger Throw,All Out Attack,1
+
+Dagger Throw,Writhe,1
+
+Dagger Throw,Prepared,11
+
+Dagger Throw,Masterful Stab,1
+
+Dagger Throw,Outmaneuver,3
+
+Dagger Throw,Adrenaline,3
+
+Dagger Throw,Night Terror,2
+
+Dagger Throw,Eviscerate,2
+
+Dagger Throw,Reflex,2
+
+Dagger Throw,Finisher,2
+
+Dagger Throw,Well Laid Plans,1
+
+Dagger Throw,Sucker Punch,3
+
+Dagger Throw,Transmutation,1
+
+Dagger Throw,Burst,3
+
+Dagger Throw,Expertise,1
+
+Dagger Throw,Footwork,4
+
+Dagger Throw,Parasite,1
+
+Dagger Throw,Poisoned Stab,8
+
+Dagger Throw,Die Die Die,1
+
+Dagger Throw,Bandage Up,1
+
+Dagger Throw,Caltrops,1
+
+Dagger Throw,Predator,1
+
+Dagger Throw,Escape Plan,1
+
+Dagger Throw,Dramatic Entrance,1
+
+Dagger Throw,Heel Hook,1
+
+Dagger Throw,Decay,1
+
+Dagger Throw,Choke,0
+
+Dagger Throw,Concentrate,1
+
+Dagger Throw,Calculated Gamble,2
+
+Dagger Throw,Endless Agony,1
+
+Dagger Throw,Tactician,2
+
+Dagger Throw,Tools of the Trade,1
+
+Dagger Throw,Distraction,1
+
+Dagger Throw,Backstab,1
+
+Dagger Throw,Skewer,2
+
+Dagger Throw,Regret,0
+
+Dagger Throw,Setup,0
+
+Dagger Throw,A Thousand Cuts,0
+
+Dagger Throw,Envenom,1
+
+Dagger Throw,Glass Knife,0
+
+Dagger Throw,Malaise,1
+
+Dagger Throw,Necronomicurse,0
+
+Dagger Throw,Discovery,0
+
+Dagger Throw,Flash of Steel,0
+
+Dagger Throw,Deep Breath,1
+
+Flying Knee,PiercingWail,5
+
+Flying Knee,Quick Slash,4
+
+Flying Knee,Crippling Poison,1
+
+Flying Knee,Dagger Spray,2
+
+Flying Knee,Accuracy,0
+
+Flying Knee,Catalyst,2
+
+Flying Knee,Bane,1
+
+Flying Knee,Blade Dance,2
+
+Flying Knee,Infinite Blades,0
+
+Flying Knee,Phantasmal Killer,1
+
+Flying Knee,Corpse Explosion,0
+
+Flying Knee,CurseOfTheBell,0
+
+Flying Knee,Riddle With Holes,1
+
+Flying Knee,Slice,3
+
+Flying Knee,Deadly Poison,3
+
+Flying Knee,Noxious Fumes,2
+
+Flying Knee,Bite,0
+
+Flying Knee,Cloak And Dagger,2
+
+Flying Knee,Bouncing Flask,1
+
+Flying Knee,Bullet Time,0
+
+Flying Knee,Deflect,2
+
+Flying Knee,Madness,0
+
+Flying Knee,Acrobatics,4
+
+Flying Knee,Storm of Steel,1
+
+Flying Knee,After Image,0
+
+Flying Knee,Leg Sweep,0
+
+Flying Knee,RitualDagger,1
+
+Flying Knee,Wraith Form v2,0
+
+Flying Knee,Flechettes,0
+
+Flying Knee,Venomology,0
+
+Flying Knee,All Out Attack,0
+
+Flying Knee,Writhe,1
+
+Flying Knee,Prepared,4
+
+Flying Knee,Masterful Stab,0
+
+Flying Knee,Outmaneuver,2
+
+Flying Knee,Adrenaline,2
+
+Flying Knee,Night Terror,1
+
+Flying Knee,Eviscerate,2
+
+Flying Knee,Reflex,2
+
+Flying Knee,Finisher,1
+
+Flying Knee,Well Laid Plans,1
+
+Flying Knee,Sucker Punch,2
+
+Flying Knee,Transmutation,1
+
+Flying Knee,Burst,2
+
+Flying Knee,Expertise,1
+
+Flying Knee,Footwork,2
+
+Flying Knee,Parasite,1
+
+Flying Knee,Poisoned Stab,3
+
+Flying Knee,Die Die Die,1
+
+Flying Knee,Bandage Up,1
+
+Flying Knee,Caltrops,1
+
+Flying Knee,Predator,0
+
+Flying Knee,Escape Plan,0
+
+Flying Knee,Dramatic Entrance,0
+
+Flying Knee,Heel Hook,0
+
+Flying Knee,Decay,0
+
+Flying Knee,Choke,0
+
+Flying Knee,Concentrate,1
+
+Flying Knee,Calculated Gamble,1
+
+Flying Knee,Endless Agony,1
+
+Flying Knee,Tactician,0
+
+Flying Knee,Tools of the Trade,0
+
+Flying Knee,Distraction,0
+
+Flying Knee,Backstab,0
+
+Flying Knee,Skewer,0
+
+Flying Knee,Regret,0
+
+Flying Knee,Setup,1
+
+Flying Knee,A Thousand Cuts,0
+
+Flying Knee,Envenom,0
+
+Flying Knee,Glass Knife,0
+
+Flying Knee,Malaise,1
+
+Flying Knee,Necronomicurse,1
+
+Flying Knee,Discovery,0
+
+Flying Knee,Flash of Steel,0
+
+Flying Knee,Deep Breath,0
+
+PiercingWail,Quick Slash,9
+
+PiercingWail,Crippling Poison,4
+
+PiercingWail,Dagger Spray,11
+
+PiercingWail,Accuracy,3
+
+PiercingWail,Catalyst,6
+
+PiercingWail,Bane,6
+
+PiercingWail,Blade Dance,11
+
+PiercingWail,Infinite Blades,3
+
+PiercingWail,Phantasmal Killer,4
+
+PiercingWail,Corpse Explosion,3
+
+PiercingWail,CurseOfTheBell,2
+
+PiercingWail,Riddle With Holes,1
+
+PiercingWail,Slice,1
+
+PiercingWail,Deadly Poison,12
+
+PiercingWail,Noxious Fumes,9
+
+PiercingWail,Bite,0
+
+PiercingWail,Cloak And Dagger,4
+
+PiercingWail,Bouncing Flask,5
+
+PiercingWail,Bullet Time,3
+
+PiercingWail,Deflect,10
+
+PiercingWail,Madness,0
+
+PiercingWail,Acrobatics,11
+
+PiercingWail,Storm of Steel,3
+
+PiercingWail,After Image,3
+
+PiercingWail,Leg Sweep,9
+
+PiercingWail,RitualDagger,0
+
+PiercingWail,Wraith Form v2,0
+
+PiercingWail,Flechettes,1
+
+PiercingWail,Venomology,2
+
+PiercingWail,All Out Attack,1
+
+PiercingWail,Writhe,2
+
+PiercingWail,Prepared,15
+
+PiercingWail,Masterful Stab,5
+
+PiercingWail,Outmaneuver,6
+
+PiercingWail,Adrenaline,4
+
+PiercingWail,Night Terror,2
+
+PiercingWail,Eviscerate,3
+
+PiercingWail,Reflex,3
+
+PiercingWail,Finisher,3
+
+PiercingWail,Well Laid Plans,1
+
+PiercingWail,Sucker Punch,9
+
+PiercingWail,Transmutation,1
+
+PiercingWail,Burst,7
+
+PiercingWail,Expertise,1
+
+PiercingWail,Footwork,5
+
+PiercingWail,Parasite,2
+
+PiercingWail,Poisoned Stab,9
+
+PiercingWail,Die Die Die,1
+
+PiercingWail,Bandage Up,2
+
+PiercingWail,Caltrops,1
+
+PiercingWail,Predator,2
+
+PiercingWail,Escape Plan,1
+
+PiercingWail,Dramatic Entrance,2
+
+PiercingWail,Heel Hook,1
+
+PiercingWail,Decay,1
+
+PiercingWail,Choke,1
+
+PiercingWail,Concentrate,0
+
+PiercingWail,Calculated Gamble,3
+
+PiercingWail,Endless Agony,4
+
+PiercingWail,Tactician,2
+
+PiercingWail,Tools of the Trade,1
+
+PiercingWail,Distraction,1
+
+PiercingWail,Backstab,3
+
+PiercingWail,Skewer,1
+
+PiercingWail,Regret,1
+
+PiercingWail,Setup,1
+
+PiercingWail,A Thousand Cuts,1
+
+PiercingWail,Envenom,2
+
+PiercingWail,Glass Knife,2
+
+PiercingWail,Malaise,1
+
+PiercingWail,Necronomicurse,0
+
+PiercingWail,Discovery,1
+
+PiercingWail,Flash of Steel,1
+
+PiercingWail,Deep Breath,0
+
+Quick Slash,Crippling Poison,3
+
+Quick Slash,Dagger Spray,7
+
+Quick Slash,Accuracy,4
+
+Quick Slash,Catalyst,4
+
+Quick Slash,Bane,6
+
+Quick Slash,Blade Dance,9
+
+Quick Slash,Infinite Blades,7
+
+Quick Slash,Phantasmal Killer,5
+
+Quick Slash,Corpse Explosion,2
+
+Quick Slash,CurseOfTheBell,4
+
+Quick Slash,Riddle With Holes,2
+
+Quick Slash,Slice,3
+
+Quick Slash,Deadly Poison,6
+
+Quick Slash,Noxious Fumes,6
+
+Quick Slash,Bite,1
+
+Quick Slash,Cloak And Dagger,6
+
+Quick Slash,Bouncing Flask,4
+
+Quick Slash,Bullet Time,2
+
+Quick Slash,Deflect,7
+
+Quick Slash,Madness,1
+
+Quick Slash,Acrobatics,7
+
+Quick Slash,Storm of Steel,2
+
+Quick Slash,After Image,2
+
+Quick Slash,Leg Sweep,5
+
+Quick Slash,RitualDagger,1
+
+Quick Slash,Wraith Form v2,1
+
+Quick Slash,Flechettes,0
+
+Quick Slash,Venomology,2
+
+Quick Slash,All Out Attack,1
+
+Quick Slash,Writhe,1
+
+Quick Slash,Prepared,7
+
+Quick Slash,Masterful Stab,3
+
+Quick Slash,Outmaneuver,7
+
+Quick Slash,Adrenaline,4
+
+Quick Slash,Night Terror,1
+
+Quick Slash,Eviscerate,3
+
+Quick Slash,Reflex,2
+
+Quick Slash,Finisher,1
+
+Quick Slash,Well Laid Plans,1
+
+Quick Slash,Sucker Punch,3
+
+Quick Slash,Transmutation,1
+
+Quick Slash,Burst,5
+
+Quick Slash,Expertise,1
+
+Quick Slash,Footwork,4
+
+Quick Slash,Parasite,2
+
+Quick Slash,Poisoned Stab,5
+
+Quick Slash,Die Die Die,1
+
+Quick Slash,Bandage Up,1
+
+Quick Slash,Caltrops,2
+
+Quick Slash,Predator,1
+
+Quick Slash,Escape Plan,0
+
+Quick Slash,Dramatic Entrance,1
+
+Quick Slash,Heel Hook,1
+
+Quick Slash,Decay,0
+
+Quick Slash,Choke,0
+
+Quick Slash,Concentrate,0
+
+Quick Slash,Calculated Gamble,5
+
+Quick Slash,Endless Agony,1
+
+Quick Slash,Tactician,0
+
+Quick Slash,Tools of the Trade,0
+
+Quick Slash,Distraction,0
+
+Quick Slash,Backstab,0
+
+Quick Slash,Skewer,0
+
+Quick Slash,Regret,0
+
+Quick Slash,Setup,0
+
+Quick Slash,A Thousand Cuts,1
+
+Quick Slash,Envenom,4
+
+Quick Slash,Glass Knife,2
+
+Quick Slash,Malaise,2
+
+Quick Slash,Necronomicurse,0
+
+Quick Slash,Discovery,1
+
+Quick Slash,Flash of Steel,1
+
+Quick Slash,Deep Breath,1
+
+Crippling Poison,Dagger Spray,4
+
+Crippling Poison,Accuracy,1
+
+Crippling Poison,Catalyst,5
+
+Crippling Poison,Bane,4
+
+Crippling Poison,Blade Dance,5
+
+Crippling Poison,Infinite Blades,2
+
+Crippling Poison,Phantasmal Killer,2
+
+Crippling Poison,Corpse Explosion,1
+
+Crippling Poison,CurseOfTheBell,2
+
+Crippling Poison,Riddle With Holes,1
+
+Crippling Poison,Slice,3
+
+Crippling Poison,Deadly Poison,5
+
+Crippling Poison,Noxious Fumes,4
+
+Crippling Poison,Bite,2
+
+Crippling Poison,Cloak And Dagger,2
+
+Crippling Poison,Bouncing Flask,5
+
+Crippling Poison,Bullet Time,2
+
+Crippling Poison,Deflect,3
+
+Crippling Poison,Madness,1
+
+Crippling Poison,Acrobatics,3
+
+Crippling Poison,Storm of Steel,1
+
+Crippling Poison,After Image,1
+
+Crippling Poison,Leg Sweep,4
+
+Crippling Poison,RitualDagger,1
+
+Crippling Poison,Wraith Form v2,2
+
+Crippling Poison,Flechettes,0
+
+Crippling Poison,Venomology,0
+
+Crippling Poison,All Out Attack,0
+
+Crippling Poison,Writhe,1
+
+Crippling Poison,Prepared,5
+
+Crippling Poison,Masterful Stab,1
+
+Crippling Poison,Outmaneuver,1
+
+Crippling Poison,Adrenaline,3
+
+Crippling Poison,Night Terror,0
+
+Crippling Poison,Eviscerate,1
+
+Crippling Poison,Reflex,1
+
+Crippling Poison,Finisher,2
+
+Crippling Poison,Well Laid Plans,1
+
+Crippling Poison,Sucker Punch,3
+
+Crippling Poison,Transmutation,1
+
+Crippling Poison,Burst,3
+
+Crippling Poison,Expertise,1
+
+Crippling Poison,Footwork,3
+
+Crippling Poison,Parasite,1
+
+Crippling Poison,Poisoned Stab,4
+
+Crippling Poison,Die Die Die,0
+
+Crippling Poison,Bandage Up,0
+
+Crippling Poison,Caltrops,0
+
+Crippling Poison,Predator,0
+
+Crippling Poison,Escape Plan,0
+
+Crippling Poison,Dramatic Entrance,0
+
+Crippling Poison,Heel Hook,0
+
+Crippling Poison,Decay,0
+
+Crippling Poison,Choke,0
+
+Crippling Poison,Concentrate,0
+
+Crippling Poison,Calculated Gamble,0
+
+Crippling Poison,Endless Agony,0
+
+Crippling Poison,Tactician,2
+
+Crippling Poison,Tools of the Trade,1
+
+Crippling Poison,Distraction,1
+
+Crippling Poison,Backstab,1
+
+Crippling Poison,Skewer,0
+
+Crippling Poison,Regret,0
+
+Crippling Poison,Setup,0
+
+Crippling Poison,A Thousand Cuts,0
+
+Crippling Poison,Envenom,0
+
+Crippling Poison,Glass Knife,0
+
+Crippling Poison,Malaise,1
+
+Crippling Poison,Necronomicurse,0
+
+Crippling Poison,Discovery,0
+
+Crippling Poison,Flash of Steel,0
+
+Crippling Poison,Deep Breath,0
+
+Dagger Spray,Accuracy,4
+
+Dagger Spray,Catalyst,5
+
+Dagger Spray,Bane,6
+
+Dagger Spray,Blade Dance,11
+
+Dagger Spray,Infinite Blades,2
+
+Dagger Spray,Phantasmal Killer,4
+
+Dagger Spray,Corpse Explosion,3
+
+Dagger Spray,CurseOfTheBell,4
+
+Dagger Spray,Riddle With Holes,2
+
+Dagger Spray,Slice,3
+
+Dagger Spray,Deadly Poison,8
+
+Dagger Spray,Noxious Fumes,8
+
+Dagger Spray,Bite,1
+
+Dagger Spray,Cloak And Dagger,5
+
+Dagger Spray,Bouncing Flask,5
+
+Dagger Spray,Bullet Time,4
+
+Dagger Spray,Deflect,7
+
+Dagger Spray,Madness,1
+
+Dagger Spray,Acrobatics,11
+
+Dagger Spray,Storm of Steel,3
+
+Dagger Spray,After Image,4
+
+Dagger Spray,Leg Sweep,5
+
+Dagger Spray,RitualDagger,0
+
+Dagger Spray,Wraith Form v2,1
+
+Dagger Spray,Flechettes,1
+
+Dagger Spray,Venomology,3
+
+Dagger Spray,All Out Attack,2
+
+Dagger Spray,Writhe,2
+
+Dagger Spray,Prepared,7
+
+Dagger Spray,Masterful Stab,3
+
+Dagger Spray,Outmaneuver,5
+
+Dagger Spray,Adrenaline,3
+
+Dagger Spray,Night Terror,2
+
+Dagger Spray,Eviscerate,3
+
+Dagger Spray,Reflex,2
+
+Dagger Spray,Finisher,3
+
+Dagger Spray,Well Laid Plans,1
+
+Dagger Spray,Sucker Punch,6
+
+Dagger Spray,Transmutation,1
+
+Dagger Spray,Burst,6
+
+Dagger Spray,Expertise,1
+
+Dagger Spray,Footwork,3
+
+Dagger Spray,Parasite,2
+
+Dagger Spray,Poisoned Stab,7
+
+Dagger Spray,Die Die Die,0
+
+Dagger Spray,Bandage Up,0
+
+Dagger Spray,Caltrops,2
+
+Dagger Spray,Predator,0
+
+Dagger Spray,Escape Plan,0
+
+Dagger Spray,Dramatic Entrance,1
+
+Dagger Spray,Heel Hook,1
+
+Dagger Spray,Decay,0
+
+Dagger Spray,Choke,1
+
+Dagger Spray,Concentrate,0
+
+Dagger Spray,Calculated Gamble,2
+
+Dagger Spray,Endless Agony,2
+
+Dagger Spray,Tactician,1
+
+Dagger Spray,Tools of the Trade,0
+
+Dagger Spray,Distraction,0
+
+Dagger Spray,Backstab,2
+
+Dagger Spray,Skewer,1
+
+Dagger Spray,Regret,1
+
+Dagger Spray,Setup,0
+
+Dagger Spray,A Thousand Cuts,1
+
+Dagger Spray,Envenom,3
+
+Dagger Spray,Glass Knife,1
+
+Dagger Spray,Malaise,2
+
+Dagger Spray,Necronomicurse,0
+
+Dagger Spray,Discovery,0
+
+Dagger Spray,Flash of Steel,0
+
+Dagger Spray,Deep Breath,1
+
+Accuracy,Catalyst,1
+
+Accuracy,Bane,2
+
+Accuracy,Blade Dance,6
+
+Accuracy,Infinite Blades,2
+
+Accuracy,Phantasmal Killer,2
+
+Accuracy,Corpse Explosion,2
+
+Accuracy,CurseOfTheBell,1
+
+Accuracy,Riddle With Holes,1
+
+Accuracy,Slice,1
+
+Accuracy,Deadly Poison,3
+
+Accuracy,Noxious Fumes,3
+
+Accuracy,Bite,1
+
+Accuracy,Cloak And Dagger,3
+
+Accuracy,Bouncing Flask,1
+
+Accuracy,Bullet Time,1
+
+Accuracy,Deflect,6
+
+Accuracy,Madness,1
+
+Accuracy,Acrobatics,4
+
+Accuracy,Storm of Steel,2
+
+Accuracy,After Image,2
+
+Accuracy,Leg Sweep,3
+
+Accuracy,RitualDagger,0
+
+Accuracy,Wraith Form v2,0
+
+Accuracy,Flechettes,0
+
+Accuracy,Venomology,2
+
+Accuracy,All Out Attack,0
+
+Accuracy,Writhe,0
+
+Accuracy,Prepared,1
+
+Accuracy,Masterful Stab,2
+
+Accuracy,Outmaneuver,4
+
+Accuracy,Adrenaline,2
+
+Accuracy,Night Terror,0
+
+Accuracy,Eviscerate,1
+
+Accuracy,Reflex,0
+
+Accuracy,Finisher,1
+
+Accuracy,Well Laid Plans,0
+
+Accuracy,Sucker Punch,1
+
+Accuracy,Transmutation,0
+
+Accuracy,Burst,2
+
+Accuracy,Expertise,0
+
+Accuracy,Footwork,1
+
+Accuracy,Parasite,1
+
+Accuracy,Poisoned Stab,1
+
+Accuracy,Die Die Die,0
+
+Accuracy,Bandage Up,1
+
+Accuracy,Caltrops,1
+
+Accuracy,Predator,0
+
+Accuracy,Escape Plan,0
+
+Accuracy,Dramatic Entrance,0
+
+Accuracy,Heel Hook,1
+
+Accuracy,Decay,0
+
+Accuracy,Choke,1
+
+Accuracy,Concentrate,0
+
+Accuracy,Calculated Gamble,3
+
+Accuracy,Endless Agony,0
+
+Accuracy,Tactician,0
+
+Accuracy,Tools of the Trade,0
+
+Accuracy,Distraction,0
+
+Accuracy,Backstab,0
+
+Accuracy,Skewer,0
+
+Accuracy,Regret,0
+
+Accuracy,Setup,0
+
+Accuracy,A Thousand Cuts,1
+
+Accuracy,Envenom,2
+
+Accuracy,Glass Knife,1
+
+Accuracy,Malaise,2
+
+Accuracy,Necronomicurse,0
+
+Accuracy,Discovery,0
+
+Accuracy,Flash of Steel,0
+
+Accuracy,Deep Breath,0
+
+Catalyst,Bane,9
+
+Catalyst,Blade Dance,4
+
+Catalyst,Infinite Blades,2
+
+Catalyst,Phantasmal Killer,1
+
+Catalyst,Corpse Explosion,2
+
+Catalyst,CurseOfTheBell,4
+
+Catalyst,Riddle With Holes,1
+
+Catalyst,Slice,3
+
+Catalyst,Deadly Poison,11
+
+Catalyst,Noxious Fumes,7
+
+Catalyst,Bite,3
+
+Catalyst,Cloak And Dagger,3
+
+Catalyst,Bouncing Flask,9
+
+Catalyst,Bullet Time,3
+
+Catalyst,Deflect,5
+
+Catalyst,Madness,1
+
+Catalyst,Acrobatics,6
+
+Catalyst,Storm of Steel,0
+
+Catalyst,After Image,1
+
+Catalyst,Leg Sweep,4
+
+Catalyst,RitualDagger,1
+
+Catalyst,Wraith Form v2,1
+
+Catalyst,Flechettes,1
+
+Catalyst,Venomology,1
+
+Catalyst,All Out Attack,1
+
+Catalyst,Writhe,1
+
+Catalyst,Prepared,7
+
+Catalyst,Masterful Stab,2
+
+Catalyst,Outmaneuver,1
+
+Catalyst,Adrenaline,2
+
+Catalyst,Night Terror,0
+
+Catalyst,Eviscerate,1
+
+Catalyst,Reflex,0
+
+Catalyst,Finisher,1
+
+Catalyst,Well Laid Plans,1
+
+Catalyst,Sucker Punch,4
+
+Catalyst,Transmutation,0
+
+Catalyst,Burst,2
+
+Catalyst,Expertise,0
+
+Catalyst,Footwork,2
+
+Catalyst,Parasite,0
+
+Catalyst,Poisoned Stab,8
+
+Catalyst,Die Die Die,1
+
+Catalyst,Bandage Up,0
+
+Catalyst,Caltrops,0
+
+Catalyst,Predator,0
+
+Catalyst,Escape Plan,0
+
+Catalyst,Dramatic Entrance,1
+
+Catalyst,Heel Hook,0
+
+Catalyst,Decay,0
+
+Catalyst,Choke,0
+
+Catalyst,Concentrate,0
+
+Catalyst,Calculated Gamble,2
+
+Catalyst,Endless Agony,1
+
+Catalyst,Tactician,1
+
+Catalyst,Tools of the Trade,0
+
+Catalyst,Distraction,0
+
+Catalyst,Backstab,1
+
+Catalyst,Skewer,0
+
+Catalyst,Regret,0
+
+Catalyst,Setup,1
+
+Catalyst,A Thousand Cuts,0
+
+Catalyst,Envenom,1
+
+Catalyst,Glass Knife,1
+
+Catalyst,Malaise,2
+
+Catalyst,Necronomicurse,1
+
+Catalyst,Discovery,0
+
+Catalyst,Flash of Steel,0
+
+Catalyst,Deep Breath,0
+
+Bane,Blade Dance,5
+
+Bane,Infinite Blades,3
+
+Bane,Phantasmal Killer,3
+
+Bane,Corpse Explosion,3
+
+Bane,CurseOfTheBell,4
+
+Bane,Riddle With Holes,1
+
+Bane,Slice,3
+
+Bane,Deadly Poison,12
+
+Bane,Noxious Fumes,8
+
+Bane,Bite,2
+
+Bane,Cloak And Dagger,5
+
+Bane,Bouncing Flask,7
+
+Bane,Bullet Time,3
+
+Bane,Deflect,5
+
+Bane,Madness,1
+
+Bane,Acrobatics,7
+
+Bane,Storm of Steel,2
+
+Bane,After Image,2
+
+Bane,Leg Sweep,5
+
+Bane,RitualDagger,1
+
+Bane,Wraith Form v2,1
+
+Bane,Flechettes,0
+
+Bane,Venomology,1
+
+Bane,All Out Attack,0
+
+Bane,Writhe,0
+
+Bane,Prepared,5
+
+Bane,Masterful Stab,2
+
+Bane,Outmaneuver,2
+
+Bane,Adrenaline,2
+
+Bane,Night Terror,0
+
+Bane,Eviscerate,1
+
+Bane,Reflex,0
+
+Bane,Finisher,0
+
+Bane,Well Laid Plans,0
+
+Bane,Sucker Punch,4
+
+Bane,Transmutation,0
+
+Bane,Burst,5
+
+Bane,Expertise,0
+
+Bane,Footwork,2
+
+Bane,Parasite,1
+
+Bane,Poisoned Stab,8
+
+Bane,Die Die Die,1
+
+Bane,Bandage Up,0
+
+Bane,Caltrops,1
+
+Bane,Predator,1
+
+Bane,Escape Plan,0
+
+Bane,Dramatic Entrance,1
+
+Bane,Heel Hook,0
+
+Bane,Decay,0
+
+Bane,Choke,1
+
+Bane,Concentrate,0
+
+Bane,Calculated Gamble,3
+
+Bane,Endless Agony,0
+
+Bane,Tactician,0
+
+Bane,Tools of the Trade,0
+
+Bane,Distraction,0
+
+Bane,Backstab,1
+
+Bane,Skewer,0
+
+Bane,Regret,0
+
+Bane,Setup,0
+
+Bane,A Thousand Cuts,1
+
+Bane,Envenom,1
+
+Bane,Glass Knife,1
+
+Bane,Malaise,0
+
+Bane,Necronomicurse,0
+
+Bane,Discovery,1
+
+Bane,Flash of Steel,1
+
+Bane,Deep Breath,0
+
+Blade Dance,Infinite Blades,6
+
+Blade Dance,Phantasmal Killer,6
+
+Blade Dance,Corpse Explosion,4
+
+Blade Dance,CurseOfTheBell,2
+
+Blade Dance,Riddle With Holes,1
+
+Blade Dance,Slice,5
+
+Blade Dance,Deadly Poison,9
+
+Blade Dance,Noxious Fumes,9
+
+Blade Dance,Bite,1
+
+Blade Dance,Cloak And Dagger,6
+
+Blade Dance,Bouncing Flask,6
+
+Blade Dance,Bullet Time,3
+
+Blade Dance,Deflect,8
+
+Blade Dance,Madness,1
+
+Blade Dance,Acrobatics,8
+
+Blade Dance,Storm of Steel,4
+
+Blade Dance,After Image,5
+
+Blade Dance,Leg Sweep,8
+
+Blade Dance,RitualDagger,1
+
+Blade Dance,Wraith Form v2,2
+
+Blade Dance,Flechettes,0
+
+Blade Dance,Venomology,2
+
+Blade Dance,All Out Attack,0
+
+Blade Dance,Writhe,1
+
+Blade Dance,Prepared,7
+
+Blade Dance,Masterful Stab,3
+
+Blade Dance,Outmaneuver,7
+
+Blade Dance,Adrenaline,3
+
+Blade Dance,Night Terror,1
+
+Blade Dance,Eviscerate,2
+
+Blade Dance,Reflex,2
+
+Blade Dance,Finisher,4
+
+Blade Dance,Well Laid Plans,1
+
+Blade Dance,Sucker Punch,5
+
+Blade Dance,Transmutation,1
+
+Blade Dance,Burst,6
+
+Blade Dance,Expertise,1
+
+Blade Dance,Footwork,4
+
+Blade Dance,Parasite,2
+
+Blade Dance,Poisoned Stab,7
+
+Blade Dance,Die Die Die,0
+
+Blade Dance,Bandage Up,1
+
+Blade Dance,Caltrops,1
+
+Blade Dance,Predator,1
+
+Blade Dance,Escape Plan,0
+
+Blade Dance,Dramatic Entrance,0
+
+Blade Dance,Heel Hook,1
+
+Blade Dance,Decay,0
+
+Blade Dance,Choke,1
+
+Blade Dance,Concentrate,0
+
+Blade Dance,Calculated Gamble,6
+
+Blade Dance,Endless Agony,4
+
+Blade Dance,Tactician,1
+
+Blade Dance,Tools of the Trade,0
+
+Blade Dance,Distraction,0
+
+Blade Dance,Backstab,0
+
+Blade Dance,Skewer,2
+
+Blade Dance,Regret,1
+
+Blade Dance,Setup,1
+
+Blade Dance,A Thousand Cuts,1
+
+Blade Dance,Envenom,2
+
+Blade Dance,Glass Knife,1
+
+Blade Dance,Malaise,4
+
+Blade Dance,Necronomicurse,1
+
+Blade Dance,Discovery,1
+
+Blade Dance,Flash of Steel,1
+
+Blade Dance,Deep Breath,0
+
+Infinite Blades,Phantasmal Killer,4
+
+Infinite Blades,Corpse Explosion,2
+
+Infinite Blades,CurseOfTheBell,3
+
+Infinite Blades,Riddle With Holes,1
+
+Infinite Blades,Slice,2
+
+Infinite Blades,Deadly Poison,3
+
+Infinite Blades,Noxious Fumes,4
+
+Infinite Blades,Bite,1
+
+Infinite Blades,Cloak And Dagger,2
+
+Infinite Blades,Bouncing Flask,3
+
+Infinite Blades,Bullet Time,1
+
+Infinite Blades,Deflect,2
+
+Infinite Blades,Madness,1
+
+Infinite Blades,Acrobatics,2
+
+Infinite Blades,Storm of Steel,0
+
+Infinite Blades,After Image,1
+
+Infinite Blades,Leg Sweep,3
+
+Infinite Blades,RitualDagger,1
+
+Infinite Blades,Wraith Form v2,1
+
+Infinite Blades,Flechettes,0
+
+Infinite Blades,Venomology,0
+
+Infinite Blades,All Out Attack,1
+
+Infinite Blades,Writhe,0
+
+Infinite Blades,Prepared,3
+
+Infinite Blades,Masterful Stab,2
+
+Infinite Blades,Outmaneuver,3
+
+Infinite Blades,Adrenaline,1
+
+Infinite Blades,Night Terror,0
+
+Infinite Blades,Eviscerate,0
+
+Infinite Blades,Reflex,0
+
+Infinite Blades,Finisher,0
+
+Infinite Blades,Well Laid Plans,0
+
+Infinite Blades,Sucker Punch,0
+
+Infinite Blades,Transmutation,0
+
+Infinite Blades,Burst,1
+
+Infinite Blades,Expertise,0
+
+Infinite Blades,Footwork,1
+
+Infinite Blades,Parasite,0
+
+Infinite Blades,Poisoned Stab,2
+
+Infinite Blades,Die Die Die,0
+
+Infinite Blades,Bandage Up,0
+
+Infinite Blades,Caltrops,0
+
+Infinite Blades,Predator,1
+
+Infinite Blades,Escape Plan,0
+
+Infinite Blades,Dramatic Entrance,0
+
+Infinite Blades,Heel Hook,0
+
+Infinite Blades,Decay,0
+
+Infinite Blades,Choke,0
+
+Infinite Blades,Concentrate,0
+
+Infinite Blades,Calculated Gamble,3
+
+Infinite Blades,Endless Agony,1
+
+Infinite Blades,Tactician,0
+
+Infinite Blades,Tools of the Trade,0
+
+Infinite Blades,Distraction,0
+
+Infinite Blades,Backstab,0
+
+Infinite Blades,Skewer,0
+
+Infinite Blades,Regret,0
+
+Infinite Blades,Setup,0
+
+Infinite Blades,A Thousand Cuts,0
+
+Infinite Blades,Envenom,2
+
+Infinite Blades,Glass Knife,1
+
+Infinite Blades,Malaise,1
+
+Infinite Blades,Necronomicurse,0
+
+Infinite Blades,Discovery,1
+
+Infinite Blades,Flash of Steel,1
+
+Infinite Blades,Deep Breath,1
+
+Phantasmal Killer,Corpse Explosion,1
+
+Phantasmal Killer,CurseOfTheBell,1
+
+Phantasmal Killer,Riddle With Holes,1
+
+Phantasmal Killer,Slice,2
+
+Phantasmal Killer,Deadly Poison,3
+
+Phantasmal Killer,Noxious Fumes,4
+
+Phantasmal Killer,Bite,1
+
+Phantasmal Killer,Cloak And Dagger,2
+
+Phantasmal Killer,Bouncing Flask,2
+
+Phantasmal Killer,Bullet Time,1
+
+Phantasmal Killer,Deflect,2
+
+Phantasmal Killer,Madness,1
+
+Phantasmal Killer,Acrobatics,4
+
+Phantasmal Killer,Storm of Steel,2
+
+Phantasmal Killer,After Image,1
+
+Phantasmal Killer,Leg Sweep,2
+
+Phantasmal Killer,RitualDagger,0
+
+Phantasmal Killer,Wraith Form v2,0
+
+Phantasmal Killer,Flechettes,0
+
+Phantasmal Killer,Venomology,0
+
+Phantasmal Killer,All Out Attack,0
+
+Phantasmal Killer,Writhe,1
+
+Phantasmal Killer,Prepared,3
+
+Phantasmal Killer,Masterful Stab,2
+
+Phantasmal Killer,Outmaneuver,3
+
+Phantasmal Killer,Adrenaline,2
+
+Phantasmal Killer,Night Terror,0
+
+Phantasmal Killer,Eviscerate,1
+
+Phantasmal Killer,Reflex,1
+
+Phantasmal Killer,Finisher,1
+
+Phantasmal Killer,Well Laid Plans,1
+
+Phantasmal Killer,Sucker Punch,2
+
+Phantasmal Killer,Transmutation,1
+
+Phantasmal Killer,Burst,2
+
+Phantasmal Killer,Expertise,1
+
+Phantasmal Killer,Footwork,1
+
+Phantasmal Killer,Parasite,1
+
+Phantasmal Killer,Poisoned Stab,1
+
+Phantasmal Killer,Die Die Die,0
+
+Phantasmal Killer,Bandage Up,0
+
+Phantasmal Killer,Caltrops,0
+
+Phantasmal Killer,Predator,1
+
+Phantasmal Killer,Escape Plan,0
+
+Phantasmal Killer,Dramatic Entrance,0
+
+Phantasmal Killer,Heel Hook,0
+
+Phantasmal Killer,Decay,0
+
+Phantasmal Killer,Choke,0
+
+Phantasmal Killer,Concentrate,0
+
+Phantasmal Killer,Calculated Gamble,3
+
+Phantasmal Killer,Endless Agony,0
+
+Phantasmal Killer,Tactician,0
+
+Phantasmal Killer,Tools of the Trade,0
+
+Phantasmal Killer,Distraction,0
+
+Phantasmal Killer,Backstab,1
+
+Phantasmal Killer,Skewer,0
+
+Phantasmal Killer,Regret,0
+
+Phantasmal Killer,Setup,0
+
+Phantasmal Killer,A Thousand Cuts,0
+
+Phantasmal Killer,Envenom,1
+
+Phantasmal Killer,Glass Knife,1
+
+Phantasmal Killer,Malaise,1
+
+Phantasmal Killer,Necronomicurse,0
+
+Phantasmal Killer,Discovery,1
+
+Phantasmal Killer,Flash of Steel,1
+
+Phantasmal Killer,Deep Breath,0
+
+Corpse Explosion,CurseOfTheBell,2
+
+Corpse Explosion,Riddle With Holes,1
+
+Corpse Explosion,Slice,1
+
+Corpse Explosion,Deadly Poison,4
+
+Corpse Explosion,Noxious Fumes,4
+
+Corpse Explosion,Bite,1
+
+Corpse Explosion,Cloak And Dagger,1
+
+Corpse Explosion,Bouncing Flask,2
+
+Corpse Explosion,Bullet Time,2
+
+Corpse Explosion,Deflect,2
+
+Corpse Explosion,Madness,1
+
+Corpse Explosion,Acrobatics,2
+
+Corpse Explosion,Storm of Steel,1
+
+Corpse Explosion,After Image,1
+
+Corpse Explosion,Leg Sweep,1
+
+Corpse Explosion,RitualDagger,0
+
+Corpse Explosion,Wraith Form v2,0
+
+Corpse Explosion,Flechettes,0
+
+Corpse Explosion,Venomology,0
+
+Corpse Explosion,All Out Attack,0
+
+Corpse Explosion,Writhe,0
+
+Corpse Explosion,Prepared,3
+
+Corpse Explosion,Masterful Stab,1
+
+Corpse Explosion,Outmaneuver,1
+
+Corpse Explosion,Adrenaline,0
+
+Corpse Explosion,Night Terror,0
+
+Corpse Explosion,Eviscerate,1
+
+Corpse Explosion,Reflex,0
+
+Corpse Explosion,Finisher,0
+
+Corpse Explosion,Well Laid Plans,0
+
+Corpse Explosion,Sucker Punch,1
+
+Corpse Explosion,Transmutation,0
+
+Corpse Explosion,Burst,1
+
+Corpse Explosion,Expertise,0
+
+Corpse Explosion,Footwork,1
+
+Corpse Explosion,Parasite,0
+
+Corpse Explosion,Poisoned Stab,1
+
+Corpse Explosion,Die Die Die,0
+
+Corpse Explosion,Bandage Up,1
+
+Corpse Explosion,Caltrops,1
+
+Corpse Explosion,Predator,0
+
+Corpse Explosion,Escape Plan,0
+
+Corpse Explosion,Dramatic Entrance,0
+
+Corpse Explosion,Heel Hook,0
+
+Corpse Explosion,Decay,0
+
+Corpse Explosion,Choke,2
+
+Corpse Explosion,Concentrate,0
+
+Corpse Explosion,Calculated Gamble,1
+
+Corpse Explosion,Endless Agony,1
+
+Corpse Explosion,Tactician,0
+
+Corpse Explosion,Tools of the Trade,0
+
+Corpse Explosion,Distraction,0
+
+Corpse Explosion,Backstab,1
+
+Corpse Explosion,Skewer,1
+
+Corpse Explosion,Regret,0
+
+Corpse Explosion,Setup,0
+
+Corpse Explosion,A Thousand Cuts,0
+
+Corpse Explosion,Envenom,0
+
+Corpse Explosion,Glass Knife,0
+
+Corpse Explosion,Malaise,0
+
+Corpse Explosion,Necronomicurse,0
+
+Corpse Explosion,Discovery,0
+
+Corpse Explosion,Flash of Steel,0
+
+Corpse Explosion,Deep Breath,0
+
+CurseOfTheBell,Riddle With Holes,1
+
+CurseOfTheBell,Slice,2
+
+CurseOfTheBell,Deadly Poison,4
+
+CurseOfTheBell,Noxious Fumes,4
+
+CurseOfTheBell,Bite,1
+
+CurseOfTheBell,Cloak And Dagger,3
+
+CurseOfTheBell,Bouncing Flask,4
+
+CurseOfTheBell,Bullet Time,2
+
+CurseOfTheBell,Deflect,2
+
+CurseOfTheBell,Madness,1
+
+CurseOfTheBell,Acrobatics,3
+
+CurseOfTheBell,Storm of Steel,0
+
+CurseOfTheBell,After Image,0
+
+CurseOfTheBell,Leg Sweep,2
+
+CurseOfTheBell,RitualDagger,1
+
+CurseOfTheBell,Wraith Form v2,1
+
+CurseOfTheBell,Flechettes,0
+
+CurseOfTheBell,Venomology,0
+
+CurseOfTheBell,All Out Attack,1
+
+CurseOfTheBell,Writhe,0
+
+CurseOfTheBell,Prepared,2
+
+CurseOfTheBell,Masterful Stab,1
+
+CurseOfTheBell,Outmaneuver,0
+
+CurseOfTheBell,Adrenaline,0
+
+CurseOfTheBell,Night Terror,0
+
+CurseOfTheBell,Eviscerate,1
+
+CurseOfTheBell,Reflex,0
+
+CurseOfTheBell,Finisher,0
+
+CurseOfTheBell,Well Laid Plans,0
+
+CurseOfTheBell,Sucker Punch,2
+
+CurseOfTheBell,Transmutation,0
+
+CurseOfTheBell,Burst,1
+
+CurseOfTheBell,Expertise,0
+
+CurseOfTheBell,Footwork,0
+
+CurseOfTheBell,Parasite,0
+
+CurseOfTheBell,Poisoned Stab,2
+
+CurseOfTheBell,Die Die Die,0
+
+CurseOfTheBell,Bandage Up,0
+
+CurseOfTheBell,Caltrops,0
+
+CurseOfTheBell,Predator,0
+
+CurseOfTheBell,Escape Plan,0
+
+CurseOfTheBell,Dramatic Entrance,1
+
+CurseOfTheBell,Heel Hook,0
+
+CurseOfTheBell,Decay,0
+
+CurseOfTheBell,Choke,0
+
+CurseOfTheBell,Concentrate,0
+
+CurseOfTheBell,Calculated Gamble,0
+
+CurseOfTheBell,Endless Agony,0
+
+CurseOfTheBell,Tactician,0
+
+CurseOfTheBell,Tools of the Trade,0
+
+CurseOfTheBell,Distraction,0
+
+CurseOfTheBell,Backstab,1
+
+CurseOfTheBell,Skewer,0
+
+CurseOfTheBell,Regret,0
+
+CurseOfTheBell,Setup,0
+
+CurseOfTheBell,A Thousand Cuts,0
+
+CurseOfTheBell,Envenom,2
+
+CurseOfTheBell,Glass Knife,1
+
+CurseOfTheBell,Malaise,0
+
+CurseOfTheBell,Necronomicurse,0
+
+CurseOfTheBell,Discovery,0
+
+CurseOfTheBell,Flash of Steel,0
+
+CurseOfTheBell,Deep Breath,1
+
+Riddle With Holes,Slice,1
+
+Riddle With Holes,Deadly Poison,1
+
+Riddle With Holes,Noxious Fumes,1
+
+Riddle With Holes,Bite,1
+
+Riddle With Holes,Cloak And Dagger,1
+
+Riddle With Holes,Bouncing Flask,1
+
+Riddle With Holes,Bullet Time,1
+
+Riddle With Holes,Deflect,1
+
+Riddle With Holes,Madness,1
+
+Riddle With Holes,Acrobatics,0
+
+Riddle With Holes,Storm of Steel,0
+
+Riddle With Holes,After Image,0
+
+Riddle With Holes,Leg Sweep,0
+
+Riddle With Holes,RitualDagger,0
+
+Riddle With Holes,Wraith Form v2,0
+
+Riddle With Holes,Flechettes,0
+
+Riddle With Holes,Venomology,0
+
+Riddle With Holes,All Out Attack,0
+
+Riddle With Holes,Writhe,0
+
+Riddle With Holes,Prepared,0
+
+Riddle With Holes,Masterful Stab,0
+
+Riddle With Holes,Outmaneuver,1
+
+Riddle With Holes,Adrenaline,1
+
+Riddle With Holes,Night Terror,1
+
+Riddle With Holes,Eviscerate,0
+
+Riddle With Holes,Reflex,0
+
+Riddle With Holes,Finisher,0
+
+Riddle With Holes,Well Laid Plans,0
+
+Riddle With Holes,Sucker Punch,0
+
+Riddle With Holes,Transmutation,0
+
+Riddle With Holes,Burst,0
+
+Riddle With Holes,Expertise,0
+
+Riddle With Holes,Footwork,0
+
+Riddle With Holes,Parasite,0
+
+Riddle With Holes,Poisoned Stab,0
+
+Riddle With Holes,Die Die Die,0
+
+Riddle With Holes,Bandage Up,0
+
+Riddle With Holes,Caltrops,0
+
+Riddle With Holes,Predator,0
+
+Riddle With Holes,Escape Plan,0
+
+Riddle With Holes,Dramatic Entrance,0
+
+Riddle With Holes,Heel Hook,0
+
+Riddle With Holes,Decay,0
+
+Riddle With Holes,Choke,0
+
+Riddle With Holes,Concentrate,0
+
+Riddle With Holes,Calculated Gamble,0
+
+Riddle With Holes,Endless Agony,0
+
+Riddle With Holes,Tactician,0
+
+Riddle With Holes,Tools of the Trade,0
+
+Riddle With Holes,Distraction,0
+
+Riddle With Holes,Backstab,0
+
+Riddle With Holes,Skewer,0
+
+Riddle With Holes,Regret,0
+
+Riddle With Holes,Setup,0
+
+Riddle With Holes,A Thousand Cuts,0
+
+Riddle With Holes,Envenom,0
+
+Riddle With Holes,Glass Knife,0
+
+Riddle With Holes,Malaise,0
+
+Riddle With Holes,Necronomicurse,0
+
+Riddle With Holes,Discovery,0
+
+Riddle With Holes,Flash of Steel,0
+
+Riddle With Holes,Deep Breath,0
+
+Slice,Deadly Poison,6
+
+Slice,Noxious Fumes,4
+
+Slice,Bite,1
+
+Slice,Cloak And Dagger,5
+
+Slice,Bouncing Flask,4
+
+Slice,Bullet Time,1
+
+Slice,Deflect,3
+
+Slice,Madness,1
+
+Slice,Acrobatics,4
+
+Slice,Storm of Steel,1
+
+Slice,After Image,1
+
+Slice,Leg Sweep,2
+
+Slice,RitualDagger,2
+
+Slice,Wraith Form v2,2
+
+Slice,Flechettes,0
+
+Slice,Venomology,0
+
+Slice,All Out Attack,0
+
+Slice,Writhe,0
+
+Slice,Prepared,2
+
+Slice,Masterful Stab,0
+
+Slice,Outmaneuver,0
+
+Slice,Adrenaline,0
+
+Slice,Night Terror,0
+
+Slice,Eviscerate,1
+
+Slice,Reflex,1
+
+Slice,Finisher,0
+
+Slice,Well Laid Plans,0
+
+Slice,Sucker Punch,1
+
+Slice,Transmutation,0
+
+Slice,Burst,2
+
+Slice,Expertise,0
+
+Slice,Footwork,2
+
+Slice,Parasite,0
+
+Slice,Poisoned Stab,3
+
+Slice,Die Die Die,1
+
+Slice,Bandage Up,1
+
+Slice,Caltrops,1
+
+Slice,Predator,0
+
+Slice,Escape Plan,0
+
+Slice,Dramatic Entrance,0
+
+Slice,Heel Hook,0
+
+Slice,Decay,0
+
+Slice,Choke,0
+
+Slice,Concentrate,1
+
+Slice,Calculated Gamble,0
+
+Slice,Endless Agony,1
+
+Slice,Tactician,0
+
+Slice,Tools of the Trade,0
+
+Slice,Distraction,0
+
+Slice,Backstab,0
+
+Slice,Skewer,0
+
+Slice,Regret,0
+
+Slice,Setup,1
+
+Slice,A Thousand Cuts,0
+
+Slice,Envenom,0
+
+Slice,Glass Knife,0
+
+Slice,Malaise,2
+
+Slice,Necronomicurse,1
+
+Slice,Discovery,0
+
+Slice,Flash of Steel,0
+
+Slice,Deep Breath,0
+
+Deadly Poison,Noxious Fumes,12
+
+Deadly Poison,Bite,2
+
+Deadly Poison,Cloak And Dagger,7
+
+Deadly Poison,Bouncing Flask,10
+
+Deadly Poison,Bullet Time,4
+
+Deadly Poison,Deflect,9
+
+Deadly Poison,Madness,1
+
+Deadly Poison,Acrobatics,11
+
+Deadly Poison,Storm of Steel,3
+
+Deadly Poison,After Image,2
+
+Deadly Poison,Leg Sweep,9
+
+Deadly Poison,RitualDagger,2
+
+Deadly Poison,Wraith Form v2,2
+
+Deadly Poison,Flechettes,1
+
+Deadly Poison,Venomology,2
+
+Deadly Poison,All Out Attack,1
+
+Deadly Poison,Writhe,1
+
+Deadly Poison,Prepared,11
+
+Deadly Poison,Masterful Stab,4
+
+Deadly Poison,Outmaneuver,3
+
+Deadly Poison,Adrenaline,1
+
+Deadly Poison,Night Terror,0
+
+Deadly Poison,Eviscerate,1
+
+Deadly Poison,Reflex,0
+
+Deadly Poison,Finisher,1
+
+Deadly Poison,Well Laid Plans,1
+
+Deadly Poison,Sucker Punch,7
+
+Deadly Poison,Transmutation,0
+
+Deadly Poison,Burst,9
+
+Deadly Poison,Expertise,0
+
+Deadly Poison,Footwork,4
+
+Deadly Poison,Parasite,1
+
+Deadly Poison,Poisoned Stab,13
+
+Deadly Poison,Die Die Die,1
+
+Deadly Poison,Bandage Up,1
+
+Deadly Poison,Caltrops,1
+
+Deadly Poison,Predator,2
+
+Deadly Poison,Escape Plan,1
+
+Deadly Poison,Dramatic Entrance,2
+
+Deadly Poison,Heel Hook,1
+
+Deadly Poison,Decay,1
+
+Deadly Poison,Choke,2
+
+Deadly Poison,Concentrate,1
+
+Deadly Poison,Calculated Gamble,3
+
+Deadly Poison,Endless Agony,2
+
+Deadly Poison,Tactician,1
+
+Deadly Poison,Tools of the Trade,1
+
+Deadly Poison,Distraction,1
+
+Deadly Poison,Backstab,2
+
+Deadly Poison,Skewer,0
+
+Deadly Poison,Regret,0
+
+Deadly Poison,Setup,1
+
+Deadly Poison,A Thousand Cuts,1
+
+Deadly Poison,Envenom,1
+
+Deadly Poison,Glass Knife,1
+
+Deadly Poison,Malaise,3
+
+Deadly Poison,Necronomicurse,1
+
+Deadly Poison,Discovery,1
+
+Deadly Poison,Flash of Steel,1
+
+Deadly Poison,Deep Breath,0
+
+Noxious Fumes,Bite,1
+
+Noxious Fumes,Cloak And Dagger,4
+
+Noxious Fumes,Bouncing Flask,8
+
+Noxious Fumes,Bullet Time,5
+
+Noxious Fumes,Deflect,7
+
+Noxious Fumes,Madness,1
+
+Noxious Fumes,Acrobatics,9
+
+Noxious Fumes,Storm of Steel,2
+
+Noxious Fumes,After Image,2
+
+Noxious Fumes,Leg Sweep,6
+
+Noxious Fumes,RitualDagger,0
+
+Noxious Fumes,Wraith Form v2,1
+
+Noxious Fumes,Flechettes,0
+
+Noxious Fumes,Venomology,0
+
+Noxious Fumes,All Out Attack,1
+
+Noxious Fumes,Writhe,0
+
+Noxious Fumes,Prepared,7
+
+Noxious Fumes,Masterful Stab,3
+
+Noxious Fumes,Outmaneuver,1
+
+Noxious Fumes,Adrenaline,2
+
+Noxious Fumes,Night Terror,0
+
+Noxious Fumes,Eviscerate,1
+
+Noxious Fumes,Reflex,0
+
+Noxious Fumes,Finisher,2
+
+Noxious Fumes,Well Laid Plans,0
+
+Noxious Fumes,Sucker Punch,4
+
+Noxious Fumes,Transmutation,0
+
+Noxious Fumes,Burst,6
+
+Noxious Fumes,Expertise,0
+
+Noxious Fumes,Footwork,1
+
+Noxious Fumes,Parasite,0
+
+Noxious Fumes,Poisoned Stab,9
+
+Noxious Fumes,Die Die Die,0
+
+Noxious Fumes,Bandage Up,1
+
+Noxious Fumes,Caltrops,1
+
+Noxious Fumes,Predator,1
+
+Noxious Fumes,Escape Plan,0
+
+Noxious Fumes,Dramatic Entrance,1
+
+Noxious Fumes,Heel Hook,0
+
+Noxious Fumes,Decay,0
+
+Noxious Fumes,Choke,2
+
+Noxious Fumes,Concentrate,0
+
+Noxious Fumes,Calculated Gamble,3
+
+Noxious Fumes,Endless Agony,1
+
+Noxious Fumes,Tactician,1
+
+Noxious Fumes,Tools of the Trade,0
+
+Noxious Fumes,Distraction,0
+
+Noxious Fumes,Backstab,1
+
+Noxious Fumes,Skewer,0
+
+Noxious Fumes,Regret,0
+
+Noxious Fumes,Setup,1
+
+Noxious Fumes,A Thousand Cuts,0
+
+Noxious Fumes,Envenom,3
+
+Noxious Fumes,Glass Knife,2
+
+Noxious Fumes,Malaise,3
+
+Noxious Fumes,Necronomicurse,1
+
+Noxious Fumes,Discovery,1
+
+Noxious Fumes,Flash of Steel,1
+
+Noxious Fumes,Deep Breath,1
+
+Bite,Cloak And Dagger,1
+
+Bite,Bouncing Flask,2
+
+Bite,Bullet Time,1
+
+Bite,Deflect,2
+
+Bite,Madness,1
+
+Bite,Acrobatics,1
+
+Bite,Storm of Steel,0
+
+Bite,After Image,0
+
+Bite,Leg Sweep,0
+
+Bite,RitualDagger,0
+
+Bite,Wraith Form v2,0
+
+Bite,Flechettes,0
+
+Bite,Venomology,0
+
+Bite,All Out Attack,0
+
+Bite,Writhe,0
+
+Bite,Prepared,2
+
+Bite,Masterful Stab,0
+
+Bite,Outmaneuver,0
+
+Bite,Adrenaline,1
+
+Bite,Night Terror,0
+
+Bite,Eviscerate,0
+
+Bite,Reflex,0
+
+Bite,Finisher,0
+
+Bite,Well Laid Plans,1
+
+Bite,Sucker Punch,1
+
+Bite,Transmutation,0
+
+Bite,Burst,0
+
+Bite,Expertise,0
+
+Bite,Footwork,2
+
+Bite,Parasite,0
+
+Bite,Poisoned Stab,2
+
+Bite,Die Die Die,0
+
+Bite,Bandage Up,0
+
+Bite,Caltrops,0
+
+Bite,Predator,0
+
+Bite,Escape Plan,0
+
+Bite,Dramatic Entrance,0
+
+Bite,Heel Hook,0
+
+Bite,Decay,0
+
+Bite,Choke,0
+
+Bite,Concentrate,0
+
+Bite,Calculated Gamble,0
+
+Bite,Endless Agony,0
+
+Bite,Tactician,0
+
+Bite,Tools of the Trade,0
+
+Bite,Distraction,0
+
+Bite,Backstab,0
+
+Bite,Skewer,0
+
+Bite,Regret,0
+
+Bite,Setup,0
+
+Bite,A Thousand Cuts,0
+
+Bite,Envenom,0
+
+Bite,Glass Knife,0
+
+Bite,Malaise,1
+
+Bite,Necronomicurse,0
+
+Bite,Discovery,0
+
+Bite,Flash of Steel,0
+
+Bite,Deep Breath,0
+
+Cloak And Dagger,Bouncing Flask,3
+
+Cloak And Dagger,Bullet Time,3
+
+Cloak And Dagger,Deflect,5
+
+Cloak And Dagger,Madness,1
+
+Cloak And Dagger,Acrobatics,7
+
+Cloak And Dagger,Storm of Steel,2
+
+Cloak And Dagger,After Image,2
+
+Cloak And Dagger,Leg Sweep,3
+
+Cloak And Dagger,RitualDagger,2
+
+Cloak And Dagger,Wraith Form v2,1
+
+Cloak And Dagger,Flechettes,0
+
+Cloak And Dagger,Venomology,2
+
+Cloak And Dagger,All Out Attack,0
+
+Cloak And Dagger,Writhe,0
+
+Cloak And Dagger,Prepared,3
+
+Cloak And Dagger,Masterful Stab,1
+
+Cloak And Dagger,Outmaneuver,2
+
+Cloak And Dagger,Adrenaline,1
+
+Cloak And Dagger,Night Terror,0
+
+Cloak And Dagger,Eviscerate,2
+
+Cloak And Dagger,Reflex,1
+
+Cloak And Dagger,Finisher,1
+
+Cloak And Dagger,Well Laid Plans,0
+
+Cloak And Dagger,Sucker Punch,3
+
+Cloak And Dagger,Transmutation,0
+
+Cloak And Dagger,Burst,5
+
+Cloak And Dagger,Expertise,0
+
+Cloak And Dagger,Footwork,2
+
+Cloak And Dagger,Parasite,1
+
+Cloak And Dagger,Poisoned Stab,4
+
+Cloak And Dagger,Die Die Die,1
+
+Cloak And Dagger,Bandage Up,1
+
+Cloak And Dagger,Caltrops,2
+
+Cloak And Dagger,Predator,0
+
+Cloak And Dagger,Escape Plan,0
+
+Cloak And Dagger,Dramatic Entrance,1
+
+Cloak And Dagger,Heel Hook,1
+
+Cloak And Dagger,Decay,0
+
+Cloak And Dagger,Choke,0
+
+Cloak And Dagger,Concentrate,1
+
+Cloak And Dagger,Calculated Gamble,1
+
+Cloak And Dagger,Endless Agony,0
+
+Cloak And Dagger,Tactician,0
+
+Cloak And Dagger,Tools of the Trade,0
+
+Cloak And Dagger,Distraction,0
+
+Cloak And Dagger,Backstab,0
+
+Cloak And Dagger,Skewer,0
+
+Cloak And Dagger,Regret,0
+
+Cloak And Dagger,Setup,0
+
+Cloak And Dagger,A Thousand Cuts,1
+
+Cloak And Dagger,Envenom,2
+
+Cloak And Dagger,Glass Knife,1
+
+Cloak And Dagger,Malaise,1
+
+Cloak And Dagger,Necronomicurse,0
+
+Cloak And Dagger,Discovery,0
+
+Cloak And Dagger,Flash of Steel,0
+
+Cloak And Dagger,Deep Breath,0
+
+Bouncing Flask,Bullet Time,3
+
+Bouncing Flask,Deflect,5
+
+Bouncing Flask,Madness,1
+
+Bouncing Flask,Acrobatics,4
+
+Bouncing Flask,Storm of Steel,0
+
+Bouncing Flask,After Image,1
+
+Bouncing Flask,Leg Sweep,5
+
+Bouncing Flask,RitualDagger,1
+
+Bouncing Flask,Wraith Form v2,2
+
+Bouncing Flask,Flechettes,0
+
+Bouncing Flask,Venomology,0
+
+Bouncing Flask,All Out Attack,0
+
+Bouncing Flask,Writhe,0
+
+Bouncing Flask,Prepared,5
+
+Bouncing Flask,Masterful Stab,2
+
+Bouncing Flask,Outmaneuver,0
+
+Bouncing Flask,Adrenaline,1
+
+Bouncing Flask,Night Terror,0
+
+Bouncing Flask,Eviscerate,1
+
+Bouncing Flask,Reflex,0
+
+Bouncing Flask,Finisher,1
+
+Bouncing Flask,Well Laid Plans,1
+
+Bouncing Flask,Sucker Punch,3
+
+Bouncing Flask,Transmutation,0
+
+Bouncing Flask,Burst,4
+
+Bouncing Flask,Expertise,0
+
+Bouncing Flask,Footwork,2
+
+Bouncing Flask,Parasite,0
+
+Bouncing Flask,Poisoned Stab,7
+
+Bouncing Flask,Die Die Die,0
+
+Bouncing Flask,Bandage Up,0
+
+Bouncing Flask,Caltrops,0
+
+Bouncing Flask,Predator,1
+
+Bouncing Flask,Escape Plan,0
+
+Bouncing Flask,Dramatic Entrance,1
+
+Bouncing Flask,Heel Hook,0
+
+Bouncing Flask,Decay,0
+
+Bouncing Flask,Choke,0
+
+Bouncing Flask,Concentrate,0
+
+Bouncing Flask,Calculated Gamble,1
+
+Bouncing Flask,Endless Agony,1
+
+Bouncing Flask,Tactician,1
+
+Bouncing Flask,Tools of the Trade,0
+
+Bouncing Flask,Distraction,0
+
+Bouncing Flask,Backstab,1
+
+Bouncing Flask,Skewer,0
+
+Bouncing Flask,Regret,0
+
+Bouncing Flask,Setup,1
+
+Bouncing Flask,A Thousand Cuts,0
+
+Bouncing Flask,Envenom,1
+
+Bouncing Flask,Glass Knife,1
+
+Bouncing Flask,Malaise,3
+
+Bouncing Flask,Necronomicurse,1
+
+Bouncing Flask,Discovery,1
+
+Bouncing Flask,Flash of Steel,1
+
+Bouncing Flask,Deep Breath,0
+
+Bullet Time,Deflect,2
+
+Bullet Time,Madness,1
+
+Bullet Time,Acrobatics,3
+
+Bullet Time,Storm of Steel,0
+
+Bullet Time,After Image,1
+
+Bullet Time,Leg Sweep,2
+
+Bullet Time,RitualDagger,0
+
+Bullet Time,Wraith Form v2,0
+
+Bullet Time,Flechettes,0
+
+Bullet Time,Venomology,0
+
+Bullet Time,All Out Attack,0
+
+Bullet Time,Writhe,0
+
+Bullet Time,Prepared,2
+
+Bullet Time,Masterful Stab,0
+
+Bullet Time,Outmaneuver,0
+
+Bullet Time,Adrenaline,0
+
+Bullet Time,Night Terror,0
+
+Bullet Time,Eviscerate,0
+
+Bullet Time,Reflex,0
+
+Bullet Time,Finisher,2
+
+Bullet Time,Well Laid Plans,0
+
+Bullet Time,Sucker Punch,2
+
+Bullet Time,Transmutation,0
+
+Bullet Time,Burst,3
+
+Bullet Time,Expertise,0
+
+Bullet Time,Footwork,0
+
+Bullet Time,Parasite,0
+
+Bullet Time,Poisoned Stab,4
+
+Bullet Time,Die Die Die,0
+
+Bullet Time,Bandage Up,0
+
+Bullet Time,Caltrops,1
+
+Bullet Time,Predator,0
+
+Bullet Time,Escape Plan,0
+
+Bullet Time,Dramatic Entrance,1
+
+Bullet Time,Heel Hook,0
+
+Bullet Time,Decay,0
+
+Bullet Time,Choke,1
+
+Bullet Time,Concentrate,0
+
+Bullet Time,Calculated Gamble,0
+
+Bullet Time,Endless Agony,0
+
+Bullet Time,Tactician,1
+
+Bullet Time,Tools of the Trade,0
+
+Bullet Time,Distraction,0
+
+Bullet Time,Backstab,0
+
+Bullet Time,Skewer,0
+
+Bullet Time,Regret,0
+
+Bullet Time,Setup,0
+
+Bullet Time,A Thousand Cuts,0
+
+Bullet Time,Envenom,1
+
+Bullet Time,Glass Knife,1
+
+Bullet Time,Malaise,0
+
+Bullet Time,Necronomicurse,0
+
+Bullet Time,Discovery,0
+
+Bullet Time,Flash of Steel,0
+
+Bullet Time,Deep Breath,0
+
+Deflect,Madness,1
+
+Deflect,Acrobatics,7
+
+Deflect,Storm of Steel,2
+
+Deflect,After Image,2
+
+Deflect,Leg Sweep,5
+
+Deflect,RitualDagger,0
+
+Deflect,Wraith Form v2,1
+
+Deflect,Flechettes,0
+
+Deflect,Venomology,2
+
+Deflect,All Out Attack,0
+
+Deflect,Writhe,0
+
+Deflect,Prepared,8
+
+Deflect,Masterful Stab,2
+
+Deflect,Outmaneuver,4
+
+Deflect,Adrenaline,3
+
+Deflect,Night Terror,1
+
+Deflect,Eviscerate,2
+
+Deflect,Reflex,1
+
+Deflect,Finisher,1
+
+Deflect,Well Laid Plans,1
+
+Deflect,Sucker Punch,3
+
+Deflect,Transmutation,0
+
+Deflect,Burst,6
+
+Deflect,Expertise,0
+
+Deflect,Footwork,5
+
+Deflect,Parasite,1
+
+Deflect,Poisoned Stab,7
+
+Deflect,Die Die Die,1
+
+Deflect,Bandage Up,2
+
+Deflect,Caltrops,2
+
+Deflect,Predator,0
+
+Deflect,Escape Plan,0
+
+Deflect,Dramatic Entrance,1
+
+Deflect,Heel Hook,1
+
+Deflect,Decay,0
+
+Deflect,Choke,1
+
+Deflect,Concentrate,0
+
+Deflect,Calculated Gamble,4
+
+Deflect,Endless Agony,2
+
+Deflect,Tactician,0
+
+Deflect,Tools of the Trade,0
+
+Deflect,Distraction,0
+
+Deflect,Backstab,0
+
+Deflect,Skewer,1
+
+Deflect,Regret,0
+
+Deflect,Setup,1
+
+Deflect,A Thousand Cuts,1
+
+Deflect,Envenom,3
+
+Deflect,Glass Knife,2
+
+Deflect,Malaise,4
+
+Deflect,Necronomicurse,0
+
+Deflect,Discovery,0
+
+Deflect,Flash of Steel,0
+
+Deflect,Deep Breath,0
+
+Madness,Acrobatics,0
+
+Madness,Storm of Steel,0
+
+Madness,After Image,0
+
+Madness,Leg Sweep,0
+
+Madness,RitualDagger,0
+
+Madness,Wraith Form v2,0
+
+Madness,Flechettes,0
+
+Madness,Venomology,0
+
+Madness,All Out Attack,0
+
+Madness,Writhe,0
+
+Madness,Prepared,0
+
+Madness,Masterful Stab,0
+
+Madness,Outmaneuver,0
+
+Madness,Adrenaline,0
+
+Madness,Night Terror,0
+
+Madness,Eviscerate,0
+
+Madness,Reflex,0
+
+Madness,Finisher,0
+
+Madness,Well Laid Plans,0
+
+Madness,Sucker Punch,0
+
+Madness,Transmutation,0
+
+Madness,Burst,0
+
+Madness,Expertise,0
+
+Madness,Footwork,0
+
+Madness,Parasite,0
+
+Madness,Poisoned Stab,0
+
+Madness,Die Die Die,0
+
+Madness,Bandage Up,0
+
+Madness,Caltrops,0
+
+Madness,Predator,0
+
+Madness,Escape Plan,0
+
+Madness,Dramatic Entrance,0
+
+Madness,Heel Hook,0
+
+Madness,Decay,0
+
+Madness,Choke,0
+
+Madness,Concentrate,0
+
+Madness,Calculated Gamble,0
+
+Madness,Endless Agony,0
+
+Madness,Tactician,0
+
+Madness,Tools of the Trade,0
+
+Madness,Distraction,0
+
+Madness,Backstab,0
+
+Madness,Skewer,0
+
+Madness,Regret,0
+
+Madness,Setup,0
+
+Madness,A Thousand Cuts,0
+
+Madness,Envenom,0
+
+Madness,Glass Knife,0
+
+Madness,Malaise,0
+
+Madness,Necronomicurse,0
+
+Madness,Discovery,0
+
+Madness,Flash of Steel,0
+
+Madness,Deep Breath,0
+
+Acrobatics,Storm of Steel,3
+
+Acrobatics,After Image,3
+
+Acrobatics,Leg Sweep,4
+
+Acrobatics,RitualDagger,1
+
+Acrobatics,Wraith Form v2,0
+
+Acrobatics,Flechettes,1
+
+Acrobatics,Venomology,3
+
+Acrobatics,All Out Attack,2
+
+Acrobatics,Writhe,2
+
+Acrobatics,Prepared,10
+
+Acrobatics,Masterful Stab,4
+
+Acrobatics,Outmaneuver,6
+
+Acrobatics,Adrenaline,5
+
+Acrobatics,Night Terror,0
+
+Acrobatics,Eviscerate,4
+
+Acrobatics,Reflex,2
+
+Acrobatics,Finisher,3
+
+Acrobatics,Well Laid Plans,1
+
+Acrobatics,Sucker Punch,8
+
+Acrobatics,Transmutation,1
+
+Acrobatics,Burst,8
+
+Acrobatics,Expertise,1
+
+Acrobatics,Footwork,4
+
+Acrobatics,Parasite,2
+
+Acrobatics,Poisoned Stab,8
+
+Acrobatics,Die Die Die,1
+
+Acrobatics,Bandage Up,1
+
+Acrobatics,Caltrops,3
+
+Acrobatics,Predator,1
+
+Acrobatics,Escape Plan,1
+
+Acrobatics,Dramatic Entrance,2
+
+Acrobatics,Heel Hook,2
+
+Acrobatics,Decay,1
+
+Acrobatics,Choke,1
+
+Acrobatics,Concentrate,1
+
+Acrobatics,Calculated Gamble,3
+
+Acrobatics,Endless Agony,1
+
+Acrobatics,Tactician,0
+
+Acrobatics,Tools of the Trade,0
+
+Acrobatics,Distraction,0
+
+Acrobatics,Backstab,2
+
+Acrobatics,Skewer,0
+
+Acrobatics,Regret,0
+
+Acrobatics,Setup,1
+
+Acrobatics,A Thousand Cuts,1
+
+Acrobatics,Envenom,4
+
+Acrobatics,Glass Knife,2
+
+Acrobatics,Malaise,3
+
+Acrobatics,Necronomicurse,1
+
+Acrobatics,Discovery,0
+
+Acrobatics,Flash of Steel,0
+
+Acrobatics,Deep Breath,1
+
+Storm of Steel,After Image,2
+
+Storm of Steel,Leg Sweep,2
+
+Storm of Steel,RitualDagger,0
+
+Storm of Steel,Wraith Form v2,0
+
+Storm of Steel,Flechettes,0
+
+Storm of Steel,Venomology,1
+
+Storm of Steel,All Out Attack,0
+
+Storm of Steel,Writhe,1
+
+Storm of Steel,Prepared,2
+
+Storm of Steel,Masterful Stab,0
+
+Storm of Steel,Outmaneuver,2
+
+Storm of Steel,Adrenaline,1
+
+Storm of Steel,Night Terror,0
+
+Storm of Steel,Eviscerate,1
+
+Storm of Steel,Reflex,1
+
+Storm of Steel,Finisher,1
+
+Storm of Steel,Well Laid Plans,1
+
+Storm of Steel,Sucker Punch,2
+
+Storm of Steel,Transmutation,1
+
+Storm of Steel,Burst,2
+
+Storm of Steel,Expertise,1
+
+Storm of Steel,Footwork,2
+
+Storm of Steel,Parasite,2
+
+Storm of Steel,Poisoned Stab,1
+
+Storm of Steel,Die Die Die,0
+
+Storm of Steel,Bandage Up,1
+
+Storm of Steel,Caltrops,0
+
+Storm of Steel,Predator,0
+
+Storm of Steel,Escape Plan,0
+
+Storm of Steel,Dramatic Entrance,0
+
+Storm of Steel,Heel Hook,0
+
+Storm of Steel,Decay,0
+
+Storm of Steel,Choke,1
+
+Storm of Steel,Concentrate,0
+
+Storm of Steel,Calculated Gamble,0
+
+Storm of Steel,Endless Agony,0
+
+Storm of Steel,Tactician,0
+
+Storm of Steel,Tools of the Trade,0
+
+Storm of Steel,Distraction,0
+
+Storm of Steel,Backstab,0
+
+Storm of Steel,Skewer,0
+
+Storm of Steel,Regret,0
+
+Storm of Steel,Setup,0
+
+Storm of Steel,A Thousand Cuts,1
+
+Storm of Steel,Envenom,0
+
+Storm of Steel,Glass Knife,0
+
+Storm of Steel,Malaise,0
+
+Storm of Steel,Necronomicurse,0
+
+Storm of Steel,Discovery,0
+
+Storm of Steel,Flash of Steel,0
+
+Storm of Steel,Deep Breath,0
+
+After Image,Leg Sweep,2
+
+After Image,RitualDagger,0
+
+After Image,Wraith Form v2,0
+
+After Image,Flechettes,0
+
+After Image,Venomology,1
+
+After Image,All Out Attack,0
+
+After Image,Writhe,0
+
+After Image,Prepared,2
+
+After Image,Masterful Stab,0
+
+After Image,Outmaneuver,3
+
+After Image,Adrenaline,0
+
+After Image,Night Terror,0
+
+After Image,Eviscerate,0
+
+After Image,Reflex,0
+
+After Image,Finisher,2
+
+After Image,Well Laid Plans,0
+
+After Image,Sucker Punch,1
+
+After Image,Transmutation,0
+
+After Image,Burst,1
+
+After Image,Expertise,0
+
+After Image,Footwork,2
+
+After Image,Parasite,1
+
+After Image,Poisoned Stab,2
+
+After Image,Die Die Die,0
+
+After Image,Bandage Up,0
+
+After Image,Caltrops,0
+
+After Image,Predator,0
+
+After Image,Escape Plan,0
+
+After Image,Dramatic Entrance,0
+
+After Image,Heel Hook,0
+
+After Image,Decay,0
+
+After Image,Choke,0
+
+After Image,Concentrate,0
+
+After Image,Calculated Gamble,1
+
+After Image,Endless Agony,1
+
+After Image,Tactician,1
+
+After Image,Tools of the Trade,0
+
+After Image,Distraction,0
+
+After Image,Backstab,0
+
+After Image,Skewer,0
+
+After Image,Regret,0
+
+After Image,Setup,0
+
+After Image,A Thousand Cuts,1
+
+After Image,Envenom,0
+
+After Image,Glass Knife,0
+
+After Image,Malaise,0
+
+After Image,Necronomicurse,0
+
+After Image,Discovery,0
+
+After Image,Flash of Steel,0
+
+After Image,Deep Breath,0
+
+Leg Sweep,RitualDagger,1
+
+Leg Sweep,Wraith Form v2,2
+
+Leg Sweep,Flechettes,0
+
+Leg Sweep,Venomology,1
+
+Leg Sweep,All Out Attack,0
+
+Leg Sweep,Writhe,0
+
+Leg Sweep,Prepared,6
+
+Leg Sweep,Masterful Stab,3
+
+Leg Sweep,Outmaneuver,4
+
+Leg Sweep,Adrenaline,1
+
+Leg Sweep,Night Terror,0
+
+Leg Sweep,Eviscerate,0
+
+Leg Sweep,Reflex,1
+
+Leg Sweep,Finisher,1
+
+Leg Sweep,Well Laid Plans,0
+
+Leg Sweep,Sucker Punch,3
+
+Leg Sweep,Transmutation,0
+
+Leg Sweep,Burst,4
+
+Leg Sweep,Expertise,0
+
+Leg Sweep,Footwork,2
+
+Leg Sweep,Parasite,1
+
+Leg Sweep,Poisoned Stab,7
+
+Leg Sweep,Die Die Die,1
+
+Leg Sweep,Bandage Up,1
+
+Leg Sweep,Caltrops,0
+
+Leg Sweep,Predator,2
+
+Leg Sweep,Escape Plan,1
+
+Leg Sweep,Dramatic Entrance,2
+
+Leg Sweep,Heel Hook,1
+
+Leg Sweep,Decay,1
+
+Leg Sweep,Choke,1
+
+Leg Sweep,Concentrate,0
+
+Leg Sweep,Calculated Gamble,3
+
+Leg Sweep,Endless Agony,1
+
+Leg Sweep,Tactician,2
+
+Leg Sweep,Tools of the Trade,1
+
+Leg Sweep,Distraction,1
+
+Leg Sweep,Backstab,1
+
+Leg Sweep,Skewer,0
+
+Leg Sweep,Regret,1
+
+Leg Sweep,Setup,0
+
+Leg Sweep,A Thousand Cuts,1
+
+Leg Sweep,Envenom,2
+
+Leg Sweep,Glass Knife,2
+
+Leg Sweep,Malaise,2
+
+Leg Sweep,Necronomicurse,0
+
+Leg Sweep,Discovery,1
+
+Leg Sweep,Flash of Steel,1
+
+Leg Sweep,Deep Breath,0
+
+RitualDagger,Wraith Form v2,1
+
+RitualDagger,Flechettes,0
+
+RitualDagger,Venomology,0
+
+RitualDagger,All Out Attack,0
+
+RitualDagger,Writhe,0
+
+RitualDagger,Prepared,1
+
+RitualDagger,Masterful Stab,0
+
+RitualDagger,Outmaneuver,0
+
+RitualDagger,Adrenaline,0
+
+RitualDagger,Night Terror,0
+
+RitualDagger,Eviscerate,0
+
+RitualDagger,Reflex,0
+
+RitualDagger,Finisher,0
+
+RitualDagger,Well Laid Plans,0
+
+RitualDagger,Sucker Punch,0
+
+RitualDagger,Transmutation,0
+
+RitualDagger,Burst,1
+
+RitualDagger,Expertise,0
+
+RitualDagger,Footwork,0
+
+RitualDagger,Parasite,0
+
+RitualDagger,Poisoned Stab,1
+
+RitualDagger,Die Die Die,0
+
+RitualDagger,Bandage Up,0
+
+RitualDagger,Caltrops,0
+
+RitualDagger,Predator,0
+
+RitualDagger,Escape Plan,0
+
+RitualDagger,Dramatic Entrance,0
+
+RitualDagger,Heel Hook,0
+
+RitualDagger,Decay,0
+
+RitualDagger,Choke,0
+
+RitualDagger,Concentrate,1
+
+RitualDagger,Calculated Gamble,0
+
+RitualDagger,Endless Agony,0
+
+RitualDagger,Tactician,0
+
+RitualDagger,Tools of the Trade,0
+
+RitualDagger,Distraction,0
+
+RitualDagger,Backstab,0
+
+RitualDagger,Skewer,0
+
+RitualDagger,Regret,0
+
+RitualDagger,Setup,0
+
+RitualDagger,A Thousand Cuts,0
+
+RitualDagger,Envenom,0
+
+RitualDagger,Glass Knife,0
+
+RitualDagger,Malaise,0
+
+RitualDagger,Necronomicurse,0
+
+RitualDagger,Discovery,0
+
+RitualDagger,Flash of Steel,0
+
+RitualDagger,Deep Breath,0
+
+Wraith Form v2,Flechettes,0
+
+Wraith Form v2,Venomology,0
+
+Wraith Form v2,All Out Attack,0
+
+Wraith Form v2,Writhe,0
+
+Wraith Form v2,Prepared,0
+
+Wraith Form v2,Masterful Stab,0
+
+Wraith Form v2,Outmaneuver,0
+
+Wraith Form v2,Adrenaline,0
+
+Wraith Form v2,Night Terror,0
+
+Wraith Form v2,Eviscerate,0
+
+Wraith Form v2,Reflex,0
+
+Wraith Form v2,Finisher,0
+
+Wraith Form v2,Well Laid Plans,0
+
+Wraith Form v2,Sucker Punch,0
+
+Wraith Form v2,Transmutation,0
+
+Wraith Form v2,Burst,1
+
+Wraith Form v2,Expertise,0
+
+Wraith Form v2,Footwork,1
+
+Wraith Form v2,Parasite,0
+
+Wraith Form v2,Poisoned Stab,1
+
+Wraith Form v2,Die Die Die,0
+
+Wraith Form v2,Bandage Up,0
+
+Wraith Form v2,Caltrops,0
+
+Wraith Form v2,Predator,0
+
+Wraith Form v2,Escape Plan,0
+
+Wraith Form v2,Dramatic Entrance,0
+
+Wraith Form v2,Heel Hook,0
+
+Wraith Form v2,Decay,0
+
+Wraith Form v2,Choke,0
+
+Wraith Form v2,Concentrate,0
+
+Wraith Form v2,Calculated Gamble,0
+
+Wraith Form v2,Endless Agony,0
+
+Wraith Form v2,Tactician,0
+
+Wraith Form v2,Tools of the Trade,0
+
+Wraith Form v2,Distraction,0
+
+Wraith Form v2,Backstab,0
+
+Wraith Form v2,Skewer,0
+
+Wraith Form v2,Regret,0
+
+Wraith Form v2,Setup,0
+
+Wraith Form v2,A Thousand Cuts,0
+
+Wraith Form v2,Envenom,0
+
+Wraith Form v2,Glass Knife,0
+
+Wraith Form v2,Malaise,1
+
+Wraith Form v2,Necronomicurse,0
+
+Wraith Form v2,Discovery,0
+
+Wraith Form v2,Flash of Steel,0
+
+Wraith Form v2,Deep Breath,0
+
+Flechettes,Venomology,1
+
+Flechettes,All Out Attack,1
+
+Flechettes,Writhe,1
+
+Flechettes,Prepared,1
+
+Flechettes,Masterful Stab,1
+
+Flechettes,Outmaneuver,0
+
+Flechettes,Adrenaline,0
+
+Flechettes,Night Terror,0
+
+Flechettes,Eviscerate,0
+
+Flechettes,Reflex,0
+
+Flechettes,Finisher,0
+
+Flechettes,Well Laid Plans,0
+
+Flechettes,Sucker Punch,0
+
+Flechettes,Transmutation,0
+
+Flechettes,Burst,0
+
+Flechettes,Expertise,0
+
+Flechettes,Footwork,0
+
+Flechettes,Parasite,0
+
+Flechettes,Poisoned Stab,0
+
+Flechettes,Die Die Die,0
+
+Flechettes,Bandage Up,0
+
+Flechettes,Caltrops,0
+
+Flechettes,Predator,0
+
+Flechettes,Escape Plan,0
+
+Flechettes,Dramatic Entrance,0
+
+Flechettes,Heel Hook,0
+
+Flechettes,Decay,0
+
+Flechettes,Choke,0
+
+Flechettes,Concentrate,0
+
+Flechettes,Calculated Gamble,0
+
+Flechettes,Endless Agony,0
+
+Flechettes,Tactician,0
+
+Flechettes,Tools of the Trade,0
+
+Flechettes,Distraction,0
+
+Flechettes,Backstab,0
+
+Flechettes,Skewer,0
+
+Flechettes,Regret,0
+
+Flechettes,Setup,0
+
+Flechettes,A Thousand Cuts,0
+
+Flechettes,Envenom,0
+
+Flechettes,Glass Knife,0
+
+Flechettes,Malaise,0
+
+Flechettes,Necronomicurse,0
+
+Flechettes,Discovery,0
+
+Flechettes,Flash of Steel,0
+
+Flechettes,Deep Breath,0
+
+Venomology,All Out Attack,1
+
+Venomology,Writhe,1
+
+Venomology,Prepared,1
+
+Venomology,Masterful Stab,2
+
+Venomology,Outmaneuver,2
+
+Venomology,Adrenaline,1
+
+Venomology,Night Terror,0
+
+Venomology,Eviscerate,1
+
+Venomology,Reflex,0
+
+Venomology,Finisher,0
+
+Venomology,Well Laid Plans,0
+
+Venomology,Sucker Punch,1
+
+Venomology,Transmutation,0
+
+Venomology,Burst,2
+
+Venomology,Expertise,0
+
+Venomology,Footwork,1
+
+Venomology,Parasite,1
+
+Venomology,Poisoned Stab,1
+
+Venomology,Die Die Die,0
+
+Venomology,Bandage Up,0
+
+Venomology,Caltrops,1
+
+Venomology,Predator,0
+
+Venomology,Escape Plan,0
+
+Venomology,Dramatic Entrance,0
+
+Venomology,Heel Hook,1
+
+Venomology,Decay,0
+
+Venomology,Choke,0
+
+Venomology,Concentrate,0
+
+Venomology,Calculated Gamble,1
+
+Venomology,Endless Agony,0
+
+Venomology,Tactician,0
+
+Venomology,Tools of the Trade,0
+
+Venomology,Distraction,0
+
+Venomology,Backstab,0
+
+Venomology,Skewer,0
+
+Venomology,Regret,0
+
+Venomology,Setup,0
+
+Venomology,A Thousand Cuts,1
+
+Venomology,Envenom,1
+
+Venomology,Glass Knife,0
+
+Venomology,Malaise,1
+
+Venomology,Necronomicurse,0
+
+Venomology,Discovery,0
+
+Venomology,Flash of Steel,0
+
+Venomology,Deep Breath,0
+
+All Out Attack,Writhe,1
+
+All Out Attack,Prepared,2
+
+All Out Attack,Masterful Stab,1
+
+All Out Attack,Outmaneuver,0
+
+All Out Attack,Adrenaline,0
+
+All Out Attack,Night Terror,0
+
+All Out Attack,Eviscerate,0
+
+All Out Attack,Reflex,0
+
+All Out Attack,Finisher,0
+
+All Out Attack,Well Laid Plans,0
+
+All Out Attack,Sucker Punch,0
+
+All Out Attack,Transmutation,0
+
+All Out Attack,Burst,0
+
+All Out Attack,Expertise,0
+
+All Out Attack,Footwork,0
+
+All Out Attack,Parasite,0
+
+All Out Attack,Poisoned Stab,1
+
+All Out Attack,Die Die Die,0
+
+All Out Attack,Bandage Up,0
+
+All Out Attack,Caltrops,0
+
+All Out Attack,Predator,0
+
+All Out Attack,Escape Plan,0
+
+All Out Attack,Dramatic Entrance,0
+
+All Out Attack,Heel Hook,0
+
+All Out Attack,Decay,0
+
+All Out Attack,Choke,0
+
+All Out Attack,Concentrate,0
+
+All Out Attack,Calculated Gamble,0
+
+All Out Attack,Endless Agony,0
+
+All Out Attack,Tactician,0
+
+All Out Attack,Tools of the Trade,0
+
+All Out Attack,Distraction,0
+
+All Out Attack,Backstab,0
+
+All Out Attack,Skewer,0
+
+All Out Attack,Regret,0
+
+All Out Attack,Setup,0
+
+All Out Attack,A Thousand Cuts,0
+
+All Out Attack,Envenom,1
+
+All Out Attack,Glass Knife,0
+
+All Out Attack,Malaise,0
+
+All Out Attack,Necronomicurse,0
+
+All Out Attack,Discovery,0
+
+All Out Attack,Flash of Steel,0
+
+All Out Attack,Deep Breath,1
+
+Writhe,Prepared,2
+
+Writhe,Masterful Stab,1
+
+Writhe,Outmaneuver,1
+
+Writhe,Adrenaline,1
+
+Writhe,Night Terror,0
+
+Writhe,Eviscerate,1
+
+Writhe,Reflex,1
+
+Writhe,Finisher,1
+
+Writhe,Well Laid Plans,1
+
+Writhe,Sucker Punch,1
+
+Writhe,Transmutation,1
+
+Writhe,Burst,1
+
+Writhe,Expertise,1
+
+Writhe,Footwork,1
+
+Writhe,Parasite,1
+
+Writhe,Poisoned Stab,0
+
+Writhe,Die Die Die,0
+
+Writhe,Bandage Up,0
+
+Writhe,Caltrops,0
+
+Writhe,Predator,0
+
+Writhe,Escape Plan,0
+
+Writhe,Dramatic Entrance,0
+
+Writhe,Heel Hook,0
+
+Writhe,Decay,0
+
+Writhe,Choke,0
+
+Writhe,Concentrate,0
+
+Writhe,Calculated Gamble,0
+
+Writhe,Endless Agony,0
+
+Writhe,Tactician,0
+
+Writhe,Tools of the Trade,0
+
+Writhe,Distraction,0
+
+Writhe,Backstab,0
+
+Writhe,Skewer,0
+
+Writhe,Regret,0
+
+Writhe,Setup,0
+
+Writhe,A Thousand Cuts,0
+
+Writhe,Envenom,0
+
+Writhe,Glass Knife,0
+
+Writhe,Malaise,0
+
+Writhe,Necronomicurse,0
+
+Writhe,Discovery,0
+
+Writhe,Flash of Steel,0
+
+Writhe,Deep Breath,0
+
+Prepared,Masterful Stab,3
+
+Prepared,Outmaneuver,3
+
+Prepared,Adrenaline,3
+
+Prepared,Night Terror,1
+
+Prepared,Eviscerate,2
+
+Prepared,Reflex,2
+
+Prepared,Finisher,2
+
+Prepared,Well Laid Plans,2
+
+Prepared,Sucker Punch,6
+
+Prepared,Transmutation,1
+
+Prepared,Burst,6
+
+Prepared,Expertise,1
+
+Prepared,Footwork,6
+
+Prepared,Parasite,1
+
+Prepared,Poisoned Stab,10
+
+Prepared,Die Die Die,1
+
+Prepared,Bandage Up,2
+
+Prepared,Caltrops,1
+
+Prepared,Predator,2
+
+Prepared,Escape Plan,1
+
+Prepared,Dramatic Entrance,2
+
+Prepared,Heel Hook,1
+
+Prepared,Decay,1
+
+Prepared,Choke,1
+
+Prepared,Concentrate,1
+
+Prepared,Calculated Gamble,3
+
+Prepared,Endless Agony,3
+
+Prepared,Tactician,2
+
+Prepared,Tools of the Trade,1
+
+Prepared,Distraction,1
+
+Prepared,Backstab,2
+
+Prepared,Skewer,2
+
+Prepared,Regret,0
+
+Prepared,Setup,0
+
+Prepared,A Thousand Cuts,0
+
+Prepared,Envenom,2
+
+Prepared,Glass Knife,1
+
+Prepared,Malaise,1
+
+Prepared,Necronomicurse,0
+
+Prepared,Discovery,1
+
+Prepared,Flash of Steel,1
+
+Prepared,Deep Breath,1
+
+Masterful Stab,Outmaneuver,2
+
+Masterful Stab,Adrenaline,2
+
+Masterful Stab,Night Terror,0
+
+Masterful Stab,Eviscerate,2
+
+Masterful Stab,Reflex,0
+
+Masterful Stab,Finisher,0
+
+Masterful Stab,Well Laid Plans,0
+
+Masterful Stab,Sucker Punch,2
+
+Masterful Stab,Transmutation,0
+
+Masterful Stab,Burst,2
+
+Masterful Stab,Expertise,0
+
+Masterful Stab,Footwork,0
+
+Masterful Stab,Parasite,0
+
+Masterful Stab,Poisoned Stab,2
+
+Masterful Stab,Die Die Die,0
+
+Masterful Stab,Bandage Up,0
+
+Masterful Stab,Caltrops,1
+
+Masterful Stab,Predator,1
+
+Masterful Stab,Escape Plan,0
+
+Masterful Stab,Dramatic Entrance,0
+
+Masterful Stab,Heel Hook,1
+
+Masterful Stab,Decay,0
+
+Masterful Stab,Choke,0
+
+Masterful Stab,Concentrate,0
+
+Masterful Stab,Calculated Gamble,3
+
+Masterful Stab,Endless Agony,0
+
+Masterful Stab,Tactician,1
+
+Masterful Stab,Tools of the Trade,1
+
+Masterful Stab,Distraction,1
+
+Masterful Stab,Backstab,2
+
+Masterful Stab,Skewer,0
+
+Masterful Stab,Regret,0
+
+Masterful Stab,Setup,0
+
+Masterful Stab,A Thousand Cuts,0
+
+Masterful Stab,Envenom,2
+
+Masterful Stab,Glass Knife,1
+
+Masterful Stab,Malaise,2
+
+Masterful Stab,Necronomicurse,0
+
+Masterful Stab,Discovery,1
+
+Masterful Stab,Flash of Steel,1
+
+Masterful Stab,Deep Breath,0
+
+Outmaneuver,Adrenaline,4
+
+Outmaneuver,Night Terror,1
+
+Outmaneuver,Eviscerate,2
+
+Outmaneuver,Reflex,1
+
+Outmaneuver,Finisher,2
+
+Outmaneuver,Well Laid Plans,1
+
+Outmaneuver,Sucker Punch,2
+
+Outmaneuver,Transmutation,1
+
+Outmaneuver,Burst,3
+
+Outmaneuver,Expertise,1
+
+Outmaneuver,Footwork,3
+
+Outmaneuver,Parasite,2
+
+Outmaneuver,Poisoned Stab,2
+
+Outmaneuver,Die Die Die,1
+
+Outmaneuver,Bandage Up,0
+
+Outmaneuver,Caltrops,1
+
+Outmaneuver,Predator,1
+
+Outmaneuver,Escape Plan,1
+
+Outmaneuver,Dramatic Entrance,1
+
+Outmaneuver,Heel Hook,2
+
+Outmaneuver,Decay,1
+
+Outmaneuver,Choke,0
+
+Outmaneuver,Concentrate,0
+
+Outmaneuver,Calculated Gamble,5
+
+Outmaneuver,Endless Agony,1
+
+Outmaneuver,Tactician,0
+
+Outmaneuver,Tools of the Trade,0
+
+Outmaneuver,Distraction,0
+
+Outmaneuver,Backstab,0
+
+Outmaneuver,Skewer,0
+
+Outmaneuver,Regret,0
+
+Outmaneuver,Setup,0
+
+Outmaneuver,A Thousand Cuts,1
+
+Outmaneuver,Envenom,2
+
+Outmaneuver,Glass Knife,1
+
+Outmaneuver,Malaise,2
+
+Outmaneuver,Necronomicurse,0
+
+Outmaneuver,Discovery,0
+
+Outmaneuver,Flash of Steel,0
+
+Outmaneuver,Deep Breath,0
+
+Adrenaline,Night Terror,1
+
+Adrenaline,Eviscerate,2
+
+Adrenaline,Reflex,1
+
+Adrenaline,Finisher,1
+
+Adrenaline,Well Laid Plans,1
+
+Adrenaline,Sucker Punch,2
+
+Adrenaline,Transmutation,1
+
+Adrenaline,Burst,3
+
+Adrenaline,Expertise,1
+
+Adrenaline,Footwork,2
+
+Adrenaline,Parasite,1
+
+Adrenaline,Poisoned Stab,1
+
+Adrenaline,Die Die Die,0
+
+Adrenaline,Bandage Up,0
+
+Adrenaline,Caltrops,1
+
+Adrenaline,Predator,0
+
+Adrenaline,Escape Plan,0
+
+Adrenaline,Dramatic Entrance,0
+
+Adrenaline,Heel Hook,1
+
+Adrenaline,Decay,0
+
+Adrenaline,Choke,0
+
+Adrenaline,Concentrate,0
+
+Adrenaline,Calculated Gamble,2
+
+Adrenaline,Endless Agony,0
+
+Adrenaline,Tactician,0
+
+Adrenaline,Tools of the Trade,0
+
+Adrenaline,Distraction,0
+
+Adrenaline,Backstab,0
+
+Adrenaline,Skewer,0
+
+Adrenaline,Regret,0
+
+Adrenaline,Setup,0
+
+Adrenaline,A Thousand Cuts,0
+
+Adrenaline,Envenom,2
+
+Adrenaline,Glass Knife,1
+
+Adrenaline,Malaise,2
+
+Adrenaline,Necronomicurse,0
+
+Adrenaline,Discovery,0
+
+Adrenaline,Flash of Steel,0
+
+Adrenaline,Deep Breath,0
+
+Night Terror,Eviscerate,0
+
+Night Terror,Reflex,0
+
+Night Terror,Finisher,0
+
+Night Terror,Well Laid Plans,0
+
+Night Terror,Sucker Punch,0
+
+Night Terror,Transmutation,0
+
+Night Terror,Burst,0
+
+Night Terror,Expertise,0
+
+Night Terror,Footwork,0
+
+Night Terror,Parasite,0
+
+Night Terror,Poisoned Stab,1
+
+Night Terror,Die Die Die,0
+
+Night Terror,Bandage Up,0
+
+Night Terror,Caltrops,0
+
+Night Terror,Predator,0
+
+Night Terror,Escape Plan,0
+
+Night Terror,Dramatic Entrance,0
+
+Night Terror,Heel Hook,0
+
+Night Terror,Decay,0
+
+Night Terror,Choke,0
+
+Night Terror,Concentrate,0
+
+Night Terror,Calculated Gamble,0
+
+Night Terror,Endless Agony,1
+
+Night Terror,Tactician,0
+
+Night Terror,Tools of the Trade,0
+
+Night Terror,Distraction,0
+
+Night Terror,Backstab,0
+
+Night Terror,Skewer,1
+
+Night Terror,Regret,0
+
+Night Terror,Setup,0
+
+Night Terror,A Thousand Cuts,0
+
+Night Terror,Envenom,0
+
+Night Terror,Glass Knife,0
+
+Night Terror,Malaise,0
+
+Night Terror,Necronomicurse,0
+
+Night Terror,Discovery,0
+
+Night Terror,Flash of Steel,0
+
+Night Terror,Deep Breath,0
+
+Eviscerate,Reflex,2
+
+Eviscerate,Finisher,1
+
+Eviscerate,Well Laid Plans,1
+
+Eviscerate,Sucker Punch,2
+
+Eviscerate,Transmutation,1
+
+Eviscerate,Burst,2
+
+Eviscerate,Expertise,1
+
+Eviscerate,Footwork,2
+
+Eviscerate,Parasite,1
+
+Eviscerate,Poisoned Stab,0
+
+Eviscerate,Die Die Die,1
+
+Eviscerate,Bandage Up,1
+
+Eviscerate,Caltrops,2
+
+Eviscerate,Predator,0
+
+Eviscerate,Escape Plan,0
+
+Eviscerate,Dramatic Entrance,0
+
+Eviscerate,Heel Hook,1
+
+Eviscerate,Decay,0
+
+Eviscerate,Choke,0
+
+Eviscerate,Concentrate,0
+
+Eviscerate,Calculated Gamble,1
+
+Eviscerate,Endless Agony,0
+
+Eviscerate,Tactician,0
+
+Eviscerate,Tools of the Trade,0
+
+Eviscerate,Distraction,0
+
+Eviscerate,Backstab,1
+
+Eviscerate,Skewer,0
+
+Eviscerate,Regret,0
+
+Eviscerate,Setup,0
+
+Eviscerate,A Thousand Cuts,0
+
+Eviscerate,Envenom,1
+
+Eviscerate,Glass Knife,0
+
+Eviscerate,Malaise,1
+
+Eviscerate,Necronomicurse,0
+
+Eviscerate,Discovery,0
+
+Eviscerate,Flash of Steel,0
+
+Eviscerate,Deep Breath,0
+
+Reflex,Finisher,1
+
+Reflex,Well Laid Plans,1
+
+Reflex,Sucker Punch,1
+
+Reflex,Transmutation,1
+
+Reflex,Burst,1
+
+Reflex,Expertise,1
+
+Reflex,Footwork,2
+
+Reflex,Parasite,1
+
+Reflex,Poisoned Stab,0
+
+Reflex,Die Die Die,1
+
+Reflex,Bandage Up,1
+
+Reflex,Caltrops,1
+
+Reflex,Predator,0
+
+Reflex,Escape Plan,0
+
+Reflex,Dramatic Entrance,0
+
+Reflex,Heel Hook,0
+
+Reflex,Decay,0
+
+Reflex,Choke,0
+
+Reflex,Concentrate,0
+
+Reflex,Calculated Gamble,0
+
+Reflex,Endless Agony,1
+
+Reflex,Tactician,0
+
+Reflex,Tools of the Trade,0
+
+Reflex,Distraction,0
+
+Reflex,Backstab,0
+
+Reflex,Skewer,0
+
+Reflex,Regret,1
+
+Reflex,Setup,0
+
+Reflex,A Thousand Cuts,0
+
+Reflex,Envenom,0
+
+Reflex,Glass Knife,0
+
+Reflex,Malaise,0
+
+Reflex,Necronomicurse,0
+
+Reflex,Discovery,0
+
+Reflex,Flash of Steel,0
+
+Reflex,Deep Breath,0
+
+Finisher,Well Laid Plans,1
+
+Finisher,Sucker Punch,2
+
+Finisher,Transmutation,1
+
+Finisher,Burst,2
+
+Finisher,Expertise,1
+
+Finisher,Footwork,1
+
+Finisher,Parasite,1
+
+Finisher,Poisoned Stab,2
+
+Finisher,Die Die Die,0
+
+Finisher,Bandage Up,0
+
+Finisher,Caltrops,0
+
+Finisher,Predator,0
+
+Finisher,Escape Plan,0
+
+Finisher,Dramatic Entrance,0
+
+Finisher,Heel Hook,0
+
+Finisher,Decay,0
+
+Finisher,Choke,0
+
+Finisher,Concentrate,0
+
+Finisher,Calculated Gamble,1
+
+Finisher,Endless Agony,0
+
+Finisher,Tactician,1
+
+Finisher,Tools of the Trade,0
+
+Finisher,Distraction,0
+
+Finisher,Backstab,0
+
+Finisher,Skewer,0
+
+Finisher,Regret,0
+
+Finisher,Setup,0
+
+Finisher,A Thousand Cuts,0
+
+Finisher,Envenom,0
+
+Finisher,Glass Knife,0
+
+Finisher,Malaise,0
+
+Finisher,Necronomicurse,0
+
+Finisher,Discovery,0
+
+Finisher,Flash of Steel,0
+
+Finisher,Deep Breath,0
+
+Well Laid Plans,Sucker Punch,1
+
+Well Laid Plans,Transmutation,1
+
+Well Laid Plans,Burst,1
+
+Well Laid Plans,Expertise,1
+
+Well Laid Plans,Footwork,2
+
+Well Laid Plans,Parasite,1
+
+Well Laid Plans,Poisoned Stab,1
+
+Well Laid Plans,Die Die Die,0
+
+Well Laid Plans,Bandage Up,0
+
+Well Laid Plans,Caltrops,0
+
+Well Laid Plans,Predator,0
+
+Well Laid Plans,Escape Plan,0
+
+Well Laid Plans,Dramatic Entrance,0
+
+Well Laid Plans,Heel Hook,0
+
+Well Laid Plans,Decay,0
+
+Well Laid Plans,Choke,0
+
+Well Laid Plans,Concentrate,0
+
+Well Laid Plans,Calculated Gamble,0
+
+Well Laid Plans,Endless Agony,0
+
+Well Laid Plans,Tactician,0
+
+Well Laid Plans,Tools of the Trade,0
+
+Well Laid Plans,Distraction,0
+
+Well Laid Plans,Backstab,0
+
+Well Laid Plans,Skewer,0
+
+Well Laid Plans,Regret,0
+
+Well Laid Plans,Setup,0
+
+Well Laid Plans,A Thousand Cuts,0
+
+Well Laid Plans,Envenom,0
+
+Well Laid Plans,Glass Knife,0
+
+Well Laid Plans,Malaise,1
+
+Well Laid Plans,Necronomicurse,0
+
+Well Laid Plans,Discovery,0
+
+Well Laid Plans,Flash of Steel,0
+
+Well Laid Plans,Deep Breath,0
+
+Sucker Punch,Transmutation,1
+
+Sucker Punch,Burst,5
+
+Sucker Punch,Expertise,1
+
+Sucker Punch,Footwork,4
+
+Sucker Punch,Parasite,2
+
+Sucker Punch,Poisoned Stab,6
+
+Sucker Punch,Die Die Die,0
+
+Sucker Punch,Bandage Up,0
+
+Sucker Punch,Caltrops,0
+
+Sucker Punch,Predator,0
+
+Sucker Punch,Escape Plan,0
+
+Sucker Punch,Dramatic Entrance,1
+
+Sucker Punch,Heel Hook,0
+
+Sucker Punch,Decay,0
+
+Sucker Punch,Choke,0
+
+Sucker Punch,Concentrate,0
+
+Sucker Punch,Calculated Gamble,0
+
+Sucker Punch,Endless Agony,2
+
+Sucker Punch,Tactician,1
+
+Sucker Punch,Tools of the Trade,1
+
+Sucker Punch,Distraction,1
+
+Sucker Punch,Backstab,3
+
+Sucker Punch,Skewer,0
+
+Sucker Punch,Regret,0
+
+Sucker Punch,Setup,1
+
+Sucker Punch,A Thousand Cuts,1
+
+Sucker Punch,Envenom,1
+
+Sucker Punch,Glass Knife,1
+
+Sucker Punch,Malaise,1
+
+Sucker Punch,Necronomicurse,1
+
+Sucker Punch,Discovery,0
+
+Sucker Punch,Flash of Steel,0
+
+Sucker Punch,Deep Breath,0
+
+Transmutation,Burst,1
+
+Transmutation,Expertise,1
+
+Transmutation,Footwork,1
+
+Transmutation,Parasite,1
+
+Transmutation,Poisoned Stab,0
+
+Transmutation,Die Die Die,0
+
+Transmutation,Bandage Up,0
+
+Transmutation,Caltrops,0
+
+Transmutation,Predator,0
+
+Transmutation,Escape Plan,0
+
+Transmutation,Dramatic Entrance,0
+
+Transmutation,Heel Hook,0
+
+Transmutation,Decay,0
+
+Transmutation,Choke,0
+
+Transmutation,Concentrate,0
+
+Transmutation,Calculated Gamble,0
+
+Transmutation,Endless Agony,0
+
+Transmutation,Tactician,0
+
+Transmutation,Tools of the Trade,0
+
+Transmutation,Distraction,0
+
+Transmutation,Backstab,0
+
+Transmutation,Skewer,0
+
+Transmutation,Regret,0
+
+Transmutation,Setup,0
+
+Transmutation,A Thousand Cuts,0
+
+Transmutation,Envenom,0
+
+Transmutation,Glass Knife,0
+
+Transmutation,Malaise,0
+
+Transmutation,Necronomicurse,0
+
+Transmutation,Discovery,0
+
+Transmutation,Flash of Steel,0
+
+Transmutation,Deep Breath,0
+
+Burst,Expertise,1
+
+Burst,Footwork,4
+
+Burst,Parasite,2
+
+Burst,Poisoned Stab,7
+
+Burst,Die Die Die,0
+
+Burst,Bandage Up,0
+
+Burst,Caltrops,2
+
+Burst,Predator,1
+
+Burst,Escape Plan,0
+
+Burst,Dramatic Entrance,1
+
+Burst,Heel Hook,1
+
+Burst,Decay,0
+
+Burst,Choke,1
+
+Burst,Concentrate,1
+
+Burst,Calculated Gamble,2
+
+Burst,Endless Agony,1
+
+Burst,Tactician,0
+
+Burst,Tools of the Trade,0
+
+Burst,Distraction,0
+
+Burst,Backstab,0
+
+Burst,Skewer,0
+
+Burst,Regret,0
+
+Burst,Setup,0
+
+Burst,A Thousand Cuts,1
+
+Burst,Envenom,2
+
+Burst,Glass Knife,1
+
+Burst,Malaise,2
+
+Burst,Necronomicurse,0
+
+Burst,Discovery,1
+
+Burst,Flash of Steel,1
+
+Burst,Deep Breath,0
+
+Expertise,Footwork,1
+
+Expertise,Parasite,1
+
+Expertise,Poisoned Stab,0
+
+Expertise,Die Die Die,0
+
+Expertise,Bandage Up,0
+
+Expertise,Caltrops,0
+
+Expertise,Predator,0
+
+Expertise,Escape Plan,0
+
+Expertise,Dramatic Entrance,0
+
+Expertise,Heel Hook,0
+
+Expertise,Decay,0
+
+Expertise,Choke,0
+
+Expertise,Concentrate,0
+
+Expertise,Calculated Gamble,0
+
+Expertise,Endless Agony,0
+
+Expertise,Tactician,0
+
+Expertise,Tools of the Trade,0
+
+Expertise,Distraction,0
+
+Expertise,Backstab,0
+
+Expertise,Skewer,0
+
+Expertise,Regret,0
+
+Expertise,Setup,0
+
+Expertise,A Thousand Cuts,0
+
+Expertise,Envenom,0
+
+Expertise,Glass Knife,0
+
+Expertise,Malaise,0
+
+Expertise,Necronomicurse,0
+
+Expertise,Discovery,0
+
+Expertise,Flash of Steel,0
+
+Expertise,Deep Breath,0
+
+Footwork,Parasite,2
+
+Footwork,Poisoned Stab,4
+
+Footwork,Die Die Die,1
+
+Footwork,Bandage Up,1
+
+Footwork,Caltrops,1
+
+Footwork,Predator,0
+
+Footwork,Escape Plan,0
+
+Footwork,Dramatic Entrance,0
+
+Footwork,Heel Hook,0
+
+Footwork,Decay,0
+
+Footwork,Choke,0
+
+Footwork,Concentrate,0
+
+Footwork,Calculated Gamble,0
+
+Footwork,Endless Agony,2
+
+Footwork,Tactician,0
+
+Footwork,Tools of the Trade,0
+
+Footwork,Distraction,0
+
+Footwork,Backstab,0
+
+Footwork,Skewer,0
+
+Footwork,Regret,0
+
+Footwork,Setup,0
+
+Footwork,A Thousand Cuts,1
+
+Footwork,Envenom,0
+
+Footwork,Glass Knife,0
+
+Footwork,Malaise,2
+
+Footwork,Necronomicurse,0
+
+Footwork,Discovery,0
+
+Footwork,Flash of Steel,0
+
+Footwork,Deep Breath,0
+
+Parasite,Poisoned Stab,1
+
+Parasite,Die Die Die,0
+
+Parasite,Bandage Up,0
+
+Parasite,Caltrops,0
+
+Parasite,Predator,0
+
+Parasite,Escape Plan,0
+
+Parasite,Dramatic Entrance,0
+
+Parasite,Heel Hook,0
+
+Parasite,Decay,0
+
+Parasite,Choke,0
+
+Parasite,Concentrate,0
+
+Parasite,Calculated Gamble,0
+
+Parasite,Endless Agony,0
+
+Parasite,Tactician,0
+
+Parasite,Tools of the Trade,0
+
+Parasite,Distraction,0
+
+Parasite,Backstab,0
+
+Parasite,Skewer,0
+
+Parasite,Regret,0
+
+Parasite,Setup,0
+
+Parasite,A Thousand Cuts,1
+
+Parasite,Envenom,0
+
+Parasite,Glass Knife,0
+
+Parasite,Malaise,0
+
+Parasite,Necronomicurse,0
+
+Parasite,Discovery,0
+
+Parasite,Flash of Steel,0
+
+Parasite,Deep Breath,0
+
+Poisoned Stab,Die Die Die,1
+
+Poisoned Stab,Bandage Up,0
+
+Poisoned Stab,Caltrops,1
+
+Poisoned Stab,Predator,1
+
+Poisoned Stab,Escape Plan,0
+
+Poisoned Stab,Dramatic Entrance,1
+
+Poisoned Stab,Heel Hook,0
+
+Poisoned Stab,Decay,0
+
+Poisoned Stab,Choke,1
+
+Poisoned Stab,Concentrate,1
+
+Poisoned Stab,Calculated Gamble,3
+
+Poisoned Stab,Endless Agony,2
+
+Poisoned Stab,Tactician,2
+
+Poisoned Stab,Tools of the Trade,1
+
+Poisoned Stab,Distraction,1
+
+Poisoned Stab,Backstab,1
+
+Poisoned Stab,Skewer,1
+
+Poisoned Stab,Regret,0
+
+Poisoned Stab,Setup,2
+
+Poisoned Stab,A Thousand Cuts,1
+
+Poisoned Stab,Envenom,2
+
+Poisoned Stab,Glass Knife,1
+
+Poisoned Stab,Malaise,3
+
+Poisoned Stab,Necronomicurse,1
+
+Poisoned Stab,Discovery,1
+
+Poisoned Stab,Flash of Steel,1
+
+Poisoned Stab,Deep Breath,1
+
+Die Die Die,Bandage Up,1
+
+Die Die Die,Caltrops,1
+
+Die Die Die,Predator,0
+
+Die Die Die,Escape Plan,0
+
+Die Die Die,Dramatic Entrance,0
+
+Die Die Die,Heel Hook,0
+
+Die Die Die,Decay,0
+
+Die Die Die,Choke,0
+
+Die Die Die,Concentrate,0
+
+Die Die Die,Calculated Gamble,1
+
+Die Die Die,Endless Agony,0
+
+Die Die Die,Tactician,0
+
+Die Die Die,Tools of the Trade,0
+
+Die Die Die,Distraction,0
+
+Die Die Die,Backstab,0
+
+Die Die Die,Skewer,0
+
+Die Die Die,Regret,0
+
+Die Die Die,Setup,0
+
+Die Die Die,A Thousand Cuts,0
+
+Die Die Die,Envenom,0
+
+Die Die Die,Glass Knife,0
+
+Die Die Die,Malaise,0
+
+Die Die Die,Necronomicurse,0
+
+Die Die Die,Discovery,0
+
+Die Die Die,Flash of Steel,0
+
+Die Die Die,Deep Breath,0
+
+Bandage Up,Caltrops,1
+
+Bandage Up,Predator,0
+
+Bandage Up,Escape Plan,0
+
+Bandage Up,Dramatic Entrance,0
+
+Bandage Up,Heel Hook,0
+
+Bandage Up,Decay,0
+
+Bandage Up,Choke,1
+
+Bandage Up,Concentrate,0
+
+Bandage Up,Calculated Gamble,0
+
+Bandage Up,Endless Agony,0
+
+Bandage Up,Tactician,0
+
+Bandage Up,Tools of the Trade,0
+
+Bandage Up,Distraction,0
+
+Bandage Up,Backstab,0
+
+Bandage Up,Skewer,0
+
+Bandage Up,Regret,0
+
+Bandage Up,Setup,0
+
+Bandage Up,A Thousand Cuts,0
+
+Bandage Up,Envenom,0
+
+Bandage Up,Glass Knife,0
+
+Bandage Up,Malaise,0
+
+Bandage Up,Necronomicurse,0
+
+Bandage Up,Discovery,0
+
+Bandage Up,Flash of Steel,0
+
+Bandage Up,Deep Breath,0
+
+Caltrops,Predator,0
+
+Caltrops,Escape Plan,0
+
+Caltrops,Dramatic Entrance,0
+
+Caltrops,Heel Hook,1
+
+Caltrops,Decay,0
+
+Caltrops,Choke,1
+
+Caltrops,Concentrate,0
+
+Caltrops,Calculated Gamble,1
+
+Caltrops,Endless Agony,0
+
+Caltrops,Tactician,0
+
+Caltrops,Tools of the Trade,0
+
+Caltrops,Distraction,0
+
+Caltrops,Backstab,0
+
+Caltrops,Skewer,0
+
+Caltrops,Regret,0
+
+Caltrops,Setup,0
+
+Caltrops,A Thousand Cuts,0
+
+Caltrops,Envenom,1
+
+Caltrops,Glass Knife,0
+
+Caltrops,Malaise,1
+
+Caltrops,Necronomicurse,0
+
+Caltrops,Discovery,0
+
+Caltrops,Flash of Steel,0
+
+Caltrops,Deep Breath,0
+
+Predator,Escape Plan,1
+
+Predator,Dramatic Entrance,1
+
+Predator,Heel Hook,1
+
+Predator,Decay,1
+
+Predator,Choke,0
+
+Predator,Concentrate,0
+
+Predator,Calculated Gamble,1
+
+Predator,Endless Agony,0
+
+Predator,Tactician,0
+
+Predator,Tools of the Trade,0
+
+Predator,Distraction,0
+
+Predator,Backstab,0
+
+Predator,Skewer,0
+
+Predator,Regret,0
+
+Predator,Setup,0
+
+Predator,A Thousand Cuts,0
+
+Predator,Envenom,0
+
+Predator,Glass Knife,0
+
+Predator,Malaise,0
+
+Predator,Necronomicurse,0
+
+Predator,Discovery,1
+
+Predator,Flash of Steel,1
+
+Predator,Deep Breath,0
+
+Escape Plan,Dramatic Entrance,1
+
+Escape Plan,Heel Hook,1
+
+Escape Plan,Decay,1
+
+Escape Plan,Choke,0
+
+Escape Plan,Concentrate,0
+
+Escape Plan,Calculated Gamble,0
+
+Escape Plan,Endless Agony,0
+
+Escape Plan,Tactician,0
+
+Escape Plan,Tools of the Trade,0
+
+Escape Plan,Distraction,0
+
+Escape Plan,Backstab,0
+
+Escape Plan,Skewer,0
+
+Escape Plan,Regret,0
+
+Escape Plan,Setup,0
+
+Escape Plan,A Thousand Cuts,0
+
+Escape Plan,Envenom,0
+
+Escape Plan,Glass Knife,0
+
+Escape Plan,Malaise,0
+
+Escape Plan,Necronomicurse,0
+
+Escape Plan,Discovery,0
+
+Escape Plan,Flash of Steel,0
+
+Escape Plan,Deep Breath,0
+
+Dramatic Entrance,Heel Hook,1
+
+Dramatic Entrance,Decay,1
+
+Dramatic Entrance,Choke,0
+
+Dramatic Entrance,Concentrate,0
+
+Dramatic Entrance,Calculated Gamble,0
+
+Dramatic Entrance,Endless Agony,0
+
+Dramatic Entrance,Tactician,0
+
+Dramatic Entrance,Tools of the Trade,0
+
+Dramatic Entrance,Distraction,0
+
+Dramatic Entrance,Backstab,0
+
+Dramatic Entrance,Skewer,0
+
+Dramatic Entrance,Regret,0
+
+Dramatic Entrance,Setup,0
+
+Dramatic Entrance,A Thousand Cuts,0
+
+Dramatic Entrance,Envenom,1
+
+Dramatic Entrance,Glass Knife,1
+
+Dramatic Entrance,Malaise,0
+
+Dramatic Entrance,Necronomicurse,0
+
+Dramatic Entrance,Discovery,0
+
+Dramatic Entrance,Flash of Steel,0
+
+Dramatic Entrance,Deep Breath,0
+
+Heel Hook,Decay,1
+
+Heel Hook,Choke,0
+
+Heel Hook,Concentrate,0
+
+Heel Hook,Calculated Gamble,1
+
+Heel Hook,Endless Agony,0
+
+Heel Hook,Tactician,0
+
+Heel Hook,Tools of the Trade,0
+
+Heel Hook,Distraction,0
+
+Heel Hook,Backstab,0
+
+Heel Hook,Skewer,0
+
+Heel Hook,Regret,0
+
+Heel Hook,Setup,0
+
+Heel Hook,A Thousand Cuts,0
+
+Heel Hook,Envenom,1
+
+Heel Hook,Glass Knife,0
+
+Heel Hook,Malaise,1
+
+Heel Hook,Necronomicurse,0
+
+Heel Hook,Discovery,0
+
+Heel Hook,Flash of Steel,0
+
+Heel Hook,Deep Breath,0
+
+Decay,Choke,0
+
+Decay,Concentrate,0
+
+Decay,Calculated Gamble,0
+
+Decay,Endless Agony,0
+
+Decay,Tactician,0
+
+Decay,Tools of the Trade,0
+
+Decay,Distraction,0
+
+Decay,Backstab,0
+
+Decay,Skewer,0
+
+Decay,Regret,0
+
+Decay,Setup,0
+
+Decay,A Thousand Cuts,0
+
+Decay,Envenom,0
+
+Decay,Glass Knife,0
+
+Decay,Malaise,0
+
+Decay,Necronomicurse,0
+
+Decay,Discovery,0
+
+Decay,Flash of Steel,0
+
+Decay,Deep Breath,0
+
+Choke,Concentrate,0
+
+Choke,Calculated Gamble,0
+
+Choke,Endless Agony,0
+
+Choke,Tactician,0
+
+Choke,Tools of the Trade,0
+
+Choke,Distraction,0
+
+Choke,Backstab,0
+
+Choke,Skewer,0
+
+Choke,Regret,0
+
+Choke,Setup,0
+
+Choke,A Thousand Cuts,0
+
+Choke,Envenom,0
+
+Choke,Glass Knife,0
+
+Choke,Malaise,0
+
+Choke,Necronomicurse,0
+
+Choke,Discovery,0
+
+Choke,Flash of Steel,0
+
+Choke,Deep Breath,0
+
+Concentrate,Calculated Gamble,0
+
+Concentrate,Endless Agony,0
+
+Concentrate,Tactician,0
+
+Concentrate,Tools of the Trade,0
+
+Concentrate,Distraction,0
+
+Concentrate,Backstab,0
+
+Concentrate,Skewer,0
+
+Concentrate,Regret,0
+
+Concentrate,Setup,0
+
+Concentrate,A Thousand Cuts,0
+
+Concentrate,Envenom,0
+
+Concentrate,Glass Knife,0
+
+Concentrate,Malaise,0
+
+Concentrate,Necronomicurse,0
+
+Concentrate,Discovery,0
+
+Concentrate,Flash of Steel,0
+
+Concentrate,Deep Breath,0
+
+Calculated Gamble,Endless Agony,0
+
+Calculated Gamble,Tactician,0
+
+Calculated Gamble,Tools of the Trade,0
+
+Calculated Gamble,Distraction,0
+
+Calculated Gamble,Backstab,0
+
+Calculated Gamble,Skewer,1
+
+Calculated Gamble,Regret,0
+
+Calculated Gamble,Setup,0
+
+Calculated Gamble,A Thousand Cuts,0
+
+Calculated Gamble,Envenom,2
+
+Calculated Gamble,Glass Knife,1
+
+Calculated Gamble,Malaise,2
+
+Calculated Gamble,Necronomicurse,0
+
+Calculated Gamble,Discovery,1
+
+Calculated Gamble,Flash of Steel,1
+
+Calculated Gamble,Deep Breath,0
+
+Endless Agony,Tactician,0
+
+Endless Agony,Tools of the Trade,0
+
+Endless Agony,Distraction,0
+
+Endless Agony,Backstab,0
+
+Endless Agony,Skewer,1
+
+Endless Agony,Regret,1
+
+Endless Agony,Setup,1
+
+Endless Agony,A Thousand Cuts,0
+
+Endless Agony,Envenom,0
+
+Endless Agony,Glass Knife,0
+
+Endless Agony,Malaise,1
+
+Endless Agony,Necronomicurse,1
+
+Endless Agony,Discovery,0
+
+Endless Agony,Flash of Steel,0
+
+Endless Agony,Deep Breath,0
+
+Tactician,Tools of the Trade,1
+
+Tactician,Distraction,1
+
+Tactician,Backstab,1
+
+Tactician,Skewer,0
+
+Tactician,Regret,0
+
+Tactician,Setup,0
+
+Tactician,A Thousand Cuts,0
+
+Tactician,Envenom,0
+
+Tactician,Glass Knife,0
+
+Tactician,Malaise,0
+
+Tactician,Necronomicurse,0
+
+Tactician,Discovery,0
+
+Tactician,Flash of Steel,0
+
+Tactician,Deep Breath,0
+
+Tools of the Trade,Distraction,1
+
+Tools of the Trade,Backstab,1
+
+Tools of the Trade,Skewer,0
+
+Tools of the Trade,Regret,0
+
+Tools of the Trade,Setup,0
+
+Tools of the Trade,A Thousand Cuts,0
+
+Tools of the Trade,Envenom,0
+
+Tools of the Trade,Glass Knife,0
+
+Tools of the Trade,Malaise,0
+
+Tools of the Trade,Necronomicurse,0
+
+Tools of the Trade,Discovery,0
+
+Tools of the Trade,Flash of Steel,0
+
+Tools of the Trade,Deep Breath,0
+
+Distraction,Backstab,1
+
+Distraction,Skewer,0
+
+Distraction,Regret,0
+
+Distraction,Setup,0
+
+Distraction,A Thousand Cuts,0
+
+Distraction,Envenom,0
+
+Distraction,Glass Knife,0
+
+Distraction,Malaise,0
+
+Distraction,Necronomicurse,0
+
+Distraction,Discovery,0
+
+Distraction,Flash of Steel,0
+
+Distraction,Deep Breath,0
+
+Backstab,Skewer,0
+
+Backstab,Regret,0
+
+Backstab,Setup,0
+
+Backstab,A Thousand Cuts,0
+
+Backstab,Envenom,0
+
+Backstab,Glass Knife,0
+
+Backstab,Malaise,0
+
+Backstab,Necronomicurse,0
+
+Backstab,Discovery,0
+
+Backstab,Flash of Steel,0
+
+Backstab,Deep Breath,0
+
+Skewer,Regret,0
+
+Skewer,Setup,0
+
+Skewer,A Thousand Cuts,0
+
+Skewer,Envenom,0
+
+Skewer,Glass Knife,0
+
+Skewer,Malaise,0
+
+Skewer,Necronomicurse,0
+
+Skewer,Discovery,0
+
+Skewer,Flash of Steel,0
+
+Skewer,Deep Breath,0
+
+Regret,Setup,0
+
+Regret,A Thousand Cuts,0
+
+Regret,Envenom,0
+
+Regret,Glass Knife,0
+
+Regret,Malaise,0
+
+Regret,Necronomicurse,0
+
+Regret,Discovery,0
+
+Regret,Flash of Steel,0
+
+Regret,Deep Breath,0
+
+Setup,A Thousand Cuts,0
+
+Setup,Envenom,0
+
+Setup,Glass Knife,0
+
+Setup,Malaise,1
+
+Setup,Necronomicurse,1
+
+Setup,Discovery,0
+
+Setup,Flash of Steel,0
+
+Setup,Deep Breath,0
+
+A Thousand Cuts,Envenom,0
+
+A Thousand Cuts,Glass Knife,0
+
+A Thousand Cuts,Malaise,0
+
+A Thousand Cuts,Necronomicurse,0
+
+A Thousand Cuts,Discovery,0
+
+A Thousand Cuts,Flash of Steel,0
+
+A Thousand Cuts,Deep Breath,0
+
+Envenom,Glass Knife,2
+
+Envenom,Malaise,2
+
+Envenom,Necronomicurse,0
+
+Envenom,Discovery,0
+
+Envenom,Flash of Steel,0
+
+Envenom,Deep Breath,1
+
+Glass Knife,Malaise,1
+
+Glass Knife,Necronomicurse,0
+
+Glass Knife,Discovery,0
+
+Glass Knife,Flash of Steel,0
+
+Glass Knife,Deep Breath,0
+
+Malaise,Necronomicurse,1
+
+Malaise,Discovery,0
+
+Malaise,Flash of Steel,0
+
+Malaise,Deep Breath,0
+
+Necronomicurse,Discovery,0
+
+Necronomicurse,Flash of Steel,0
+
+Necronomicurse,Deep Breath,0
+
+Discovery,Flash of Steel,1
+
+Discovery,Deep Breath,0
+
+Flash of Steel,Deep Breath,0
+
