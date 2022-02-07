@@ -32,3 +32,6 @@ for file in os.listdir(folder):
         Count(path,dict,file)
 
 print(removeDupes(dict))
+
+with open('data.json','w') as fp:
+    json.dump(dict,fp)
